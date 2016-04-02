@@ -3,10 +3,12 @@
  * https://github.com/jhabdas/react-native-webpack-starter-kit
  */
 import React, { Component, PropTypes } from 'react-native'
-import Jar from './Jar'
+import JarCarousel from './JarCarousel'
 
 const { Platform, StyleSheet, Text, View, ScrollView, TouchableOpacity } = React
 var Button = require( 'react-native-button' )
+
+const TESTING = true
 
 
 export default class App extends Component {
@@ -17,20 +19,13 @@ export default class App extends Component {
         this.handleButtonPress = this.handleButtonPress.bind( this )
 
         this.state = {
-            jars: [ {
-                fillAmount: Math.random(),
-                food      : 'banana'
-            }, {
-                fillAmount: Math.random(),
-                food      : 'pasta'
-            }
-        ] }
+            jars: [] 
+        }
     }
 
     componentDidMount() {
 
-        const testing = true
-        const fn = testing ? mock : setupWebSocket
+        const fn = TESTING ? mock : setupWebSocket
 
         fn( this.setState.bind( this ) )
 
@@ -41,40 +36,13 @@ export default class App extends Component {
     }
 
     render() {
+
+        const jars = this.state.jars
+        console.log( jars, jars.length, typeof jars.length )
+
         return (
             <View style={ styles.container }>
-
-                <ScrollView
-                    ref={ scrollView => { this._scrollView = scrollView } }
-                    contentContainerStyle={ styles.scrollViewContentContainer }
-                    automaticallyAdjustContentInsets={ false }
-                    horizontal
-                    pagingEnabled
-                    style={ [ styles.scrollView, styles.horizontalScrollView ] }
-                    showsHorizontalScrollIndicator
-                >
-
-                    { this.state.jars.map( ( j, i ) =>
-                        <View key={ i } style={ styles.scrollviewPage }>
-
-                            <Text style={ styles.foodLabel }>
-                                { j.food }
-                            </Text>
-
-                            <Jar fillAmount={ j.fillAmount }/>
-
-                            <Button
-                                style={ styles.button }
-                                onPress={ this.handleButtonPress }
-                            >
-                                Order more
-                            </Button>
-
-                        </View>
-                    ) }
-
-                </ScrollView>
-
+                <JarCarousel jars={ this.state.jars } />
             </View>
         )
     }
@@ -82,6 +50,7 @@ export default class App extends Component {
 
 
 function setupWebSocket( setState ) {
+    console.log(" setup web socket")
     // return
     var ws = new WebSocket( 'ws://192.168.77.134:1337' )
 
@@ -93,7 +62,6 @@ function setupWebSocket( setState ) {
     ws.onmessage = ( e ) => {
         // a message was received
         //
-
         try {
             console.log( e, typeof e )
             const payload = JSON.parse( e )
@@ -121,28 +89,6 @@ let styles = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center',
         backgroundColor: '#F5FCFF',
-    },
-    button: {
-        top: 20
-    },
-    scrollViewContentContainer: {
-        width: 640
-    },
-    foodLabel: {
-        fontSize: 40
-    },
-    scrollviewPage: {
-        width: 320,
-        alignItems: 'center'
-    },
-    scrollView: {
-        width: 320,
-        height: 300,
-        top: 100
-    },
-    button: {
-        top: 30,
-        color: '#000'
     }
 })
 
