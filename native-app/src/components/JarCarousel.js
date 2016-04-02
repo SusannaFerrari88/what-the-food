@@ -3,13 +3,11 @@
  * https://github.com/jhabdas/react-native-webpack-starter-kit
  */
 import React, { Component, PropTypes } from 'react-native'
-import Jar from './Jar'
+import JarCard from './JarCard'
+import { VIEW_WIDTH } from '../config'
 
 const { Platform, StyleSheet, Text, View, ScrollView, TouchableOpacity } = React
-var Button = require( 'react-native-button' )
 
-
-const VIEW_WIDTH = 375
 
 export default class JarCarousel extends Component {
 
@@ -63,7 +61,6 @@ export default class JarCarousel extends Component {
 
     render() {
         const { jars, onOrderMore } = this.props
-        console.log( jars)
 
         if( ! jars.length ) {
             return <Text>No jars provided</Text>
@@ -74,8 +71,7 @@ export default class JarCarousel extends Component {
             <View style={ styles.wrapper }>
 
                 <ScrollView
-                    ref={ scrollView => { this._scrollView = scrollView } }
-                    style={ [ styles.scrollView, styles.horizontalScrollView ] }
+                    style={ styles.scrollView }
                     contentContainerStyle={ styles.scrollViewContentContainer }
                     scrollEventThrottle={ 25 }
                     automaticallyAdjustContentInsets={ false }
@@ -86,26 +82,8 @@ export default class JarCarousel extends Component {
                     pagingEnabled
                 >
 
-                    { jars.map( ( j, i ) =>
-                        <View key={ i } style={ styles.scrollviewPage }>
-
-                            <Text style={ styles.foodLabel }>
-                                { j.food }
-                            </Text>
-
-                            <Jar
-                                style={ styles.jar }
-                                fillAmount={ j.fillAmount }
-                            />
-
-                            <Button
-                                style={ styles.button }
-                                onPress={ onOrderMore }
-                            >
-                                Order more
-                            </Button>
-
-                        </View>
+                    { jars.map( j =>
+                        <JarCard key={ j.food } jar={ j } />
                     ) }
 
                 </ScrollView>
@@ -134,27 +112,6 @@ let styles = StyleSheet.create({
         left: 0,
         right: 0,
         bottom: 0
-    },
-    button: {
-        top: 20
-    },
-    scrollviewPage: {
-        width: VIEW_WIDTH,
-        alignItems: 'center',
-        paddingHorizontal: 100,
-        //borderColor: 'red',
-        //borderWidth: 2
-    },
-    scrollViewContentContainer: {
-        top: 40,
-        width: 2 * VIEW_WIDTH,
-        height: 440
-    },
-    jar: {
-        // Need to style in Jar.js
-    },
-    foodLabel: {
-        fontSize: 40
     },
     scrollView: {
 

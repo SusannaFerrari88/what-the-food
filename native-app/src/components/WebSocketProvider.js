@@ -1,6 +1,5 @@
 import React, { Component, PropTypes } from 'react-native'
-
-const TESTING = true
+import { TESTING, IP, PORT } from '../config'
 
 export default class WebSocketProvider extends Component {
 
@@ -17,7 +16,7 @@ export default class WebSocketProvider extends Component {
     setupWebsocket() {
         console.log( '[WS] Setup' )
 
-        this.ws = new WebSocket( 'ws://192.168.77.134:1338' )
+        this.ws = new WebSocket( `ws://${ IP }:${ PORT }` )
         this.ws.onopen  = console.log.bind( console, '[WS] Open: ' )
         this.ws.onerror = console.log.bind( console, '[WS] Error: ' )
         this.ws.onclose = console.log.bind( console, '[WS] Close: ' )
@@ -37,9 +36,11 @@ export default class WebSocketProvider extends Component {
             const payload = JSON.parse( e.data )
 
             this.setState({
-                jars: payload
+                data: {
+                    jars: payload
                         .values
                           .map( v => ({ ...v, fillAmount: v.lastValue }) )
+                }
             })
         } catch ( e ) {
             console.log( '[WS] Invalid JSON' , e.data )
@@ -62,6 +63,7 @@ WebSocketProvider.propTypes = {
 }
 
 function mock( setState ) {
+
     setState({ data: { jars: [ {
         fillAmount: Math.random(),
         food      : 'banana'

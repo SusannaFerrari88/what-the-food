@@ -6,7 +6,6 @@ import React, { Component, PropTypes } from 'react-native'
 import JarCarousel from './JarCarousel'
 
 const { Platform, StyleSheet, Text, View, ScrollView, TouchableOpacity } = React
-var Button = require( 'react-native-button' )
 
 
 export default class App extends Component {
@@ -24,6 +23,7 @@ export default class App extends Component {
     render() {
         const { data: { jars } } = this.props
 
+        // TODO: Repalce with navigator
         return (
             <View style={ styles.container }>
                 <JarCarousel

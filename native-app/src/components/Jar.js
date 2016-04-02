@@ -10,13 +10,19 @@ export default function Jar( props ){
     const min = 21
     const max = 355
 
+    let height = fillAmount * ( 355 - 21 ) + 21
+    if( height > max )
+        height = max
+    if( height < 0 )
+        height = 0
+
     const fillerStyle = {
         position: 'absolute',
         bottom: 0,
         left: 0,
         right: 0,
         backgroundColor: 'green',
-        height: fillAmount * ( 355 - 21 ) + 21
+        height
     }
 
     return (
@@ -70,5 +76,3 @@ let styles = StyleSheet.create({
     }
 
 })
-
-export default Jar
