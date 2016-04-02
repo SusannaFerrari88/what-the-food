@@ -5,7 +5,7 @@
 process.title = 'wtf-server';
 
 // Port where we'll run the websocket server
-var webSocketsServerPort = 1337;
+var webSocketsServerPort = 1338;
 
 // websocket and http servers
 var webSocketServer = require('websocket').server;
@@ -20,8 +20,18 @@ var history = [ ];
 // list of currently connected clients (users)
 var clients = [ ];
 // maps food and sensors 
-var foods = { };
-foods["1"] = { };
+var foods = [
+    {
+        sensorId : "1", 
+        food : "Reis",
+        lastValue : 0
+    }, 
+    {
+        sensorId : "2", 
+        food : "Nudeln",
+        lastValue : 0.8
+    }
+];
 
 /**
  * Helper function for escaping input strings
@@ -66,8 +76,8 @@ wsServer.on('request', function(request) {
 
     console.log((new Date()) + ' Connection accepted.');
 
-    if(foods["1"].lastValue) {
-        sendSupplyLevelValue(foods["1"].lastValue);
+    if(foods[0].lastValue) {
+        sendSupplyLevelValues();
     }
     // user sent some data
     connection.on('message', function(data) {
@@ -95,12 +105,16 @@ wsServer.on('request', function(request) {
             // if it's a number
             var supplyLevel = parseInt(request) / 100;
             if(supplyLevel) {
-                foods["1"].lastValue = supplyLevel;
-                sendSupplyLevelValue(supplyLevel);
+                foods[0].lastValue = supplyLevel;
+                sendSupplyLevelValues();
             } 
             
             if(request.sensorId && request.food) {
-                foods[request.sensorId].food = request.food;
+                foods.forEach(function(item) {
+                    if(item.sensorId == request.sensorId) {
+                        item.food = request.food;
+                    }
+                });
                 console.log("Food configuration stored. { " +request.sensorId + " : " + request.food + " } ");
             }
 
@@ -128,12 +142,10 @@ wsServer.on('request', function(request) {
 
 });
 
-function sendSupplyLevelValue(value) {
-    // we want to keep history of all sent datas
+function sendSupplyLevelValues() {
     var obj = {
         time: (new Date()).getTime(),
-        value: value,
-        food: foods["1"].food
+        values: foods
     };
     broadcastClients(obj);   
 }
