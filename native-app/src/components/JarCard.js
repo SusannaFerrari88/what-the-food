@@ -42,13 +42,14 @@ let styles = StyleSheet.create({
         width: VIEW_WIDTH,
         alignItems: 'center',
         paddingHorizontal: 100,
-        //borderColor: 'red',
-        //borderWidth: 2
+        // borderColor: 'blue',
+        // borderWidth: 2
     },
     jar: {
         // Need to style in Jar.js
     },
     foodLabel: {
+        top: 20,
         fontSize: 40
     },
     button: {

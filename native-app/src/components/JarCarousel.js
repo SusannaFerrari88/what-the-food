@@ -114,18 +114,21 @@ let styles = StyleSheet.create({
         bottom: 0
     },
     scrollView: {
-
         flex: 1,
-        top: 0
+        top: 0,
+        // borderColor: 'green',
+        // borderWidth: 2
     },
     button: {
         top: 80,
         color: '#000'
     },
     pageIndicatorContainer: {
-        height: 100,
+        height: 75,
         justifyContent: 'center',
-        alignItems: 'center'
+        alignItems: 'center',
+        // borderColor: 'purple',
+        // borderWidth: 2
     },
     activePage: {
         fontWeight: 'bold'

@@ -51,9 +51,11 @@ export default function Jar( props ){
 let styles = StyleSheet.create({
     container: {
         flex: 1,
-        top: 40,
+        top: 20,
         justifyContent: 'center',
         alignItems: 'center',
+        // borderColor: 'red',
+        // borderWidth: 2
     },
     linearGradient: {
         flex: 1,

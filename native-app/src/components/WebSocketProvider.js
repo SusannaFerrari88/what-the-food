@@ -1,5 +1,5 @@
 import React, { Component, PropTypes } from 'react-native'
-import { TESTING, IP, PORT } from '../config'
+import { TESTING, IP, PORT, generateTestData } from '../config'
 
 export default class WebSocketProvider extends Component {
 
@@ -7,9 +7,7 @@ export default class WebSocketProvider extends Component {
         super()
 
         this.state = {
-            data: {
-                jars: []
-            }
+            data: TESTING ? generateTestData() : {}
         }
     }
 
@@ -52,6 +50,7 @@ export default class WebSocketProvider extends Component {
     }
 
     render() {
+        console.log(this.state)
         const { state: { data }, props: { children } } = this
         // Infuse data into children passed via jsx
         return React.cloneElement( children, { data })
@@ -64,13 +63,7 @@ WebSocketProvider.propTypes = {
 
 function mock( setState ) {
 
-    setState({ data: { jars: [ {
-        fillAmount: Math.random(),
-        food      : 'banana'
-    }, {
-        fillAmount: Math.random(),
-        food      : 'pasta'
-    } ] } })
+    setState({ data: generateTestData() })
 
     setTimeout( mock, 500, setState )
 }
