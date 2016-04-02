@@ -1,0 +1,81 @@
+{
+
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true,
+    "node": true,
+    "mocha": true
+  },
+  "rules": {
+    "react/jsx-boolean-value": [1, "never"],
+    "react/jsx-curly-spacing": [1, "always"],
+    "react/jsx-closing-bracket-location": 2,
+    "react/jsx-indent-props": [1, 4],
+    "react/jsx-max-props-per-line": [1, {"maximum": 2}],
+    "react/jsx-no-undef": 2,
+    "react/jsx-no-duplicate-props": 2,
+    "react/jsx-uses-react": 2,
+    "react/jsx-uses-vars": 2,
+    "react/no-did-mount-set-state": 2,
+    "react/no-did-update-set-state": 2,
+    "react/no-direct-mutation-state": 2,
+    "react/require-extension": [1, { "extensions": [ ".jsx", ".js" ] }],
+    "react/prefer-es6-class": 1,
+    "react/react-in-jsx-scope": 2,
+    "import/default": 1,
+    "import/no-duplicates": 2,
+    "import/named": 1,
+    "import/namespace": 1,
+    "import/no-unresolved": 1,
+    "import/no-named-as-default": 0,
+    "array-bracket-spacing": [1, "always"],
+    "comma-dangle": 0,  // not sure why airbnb turned this on. gross!
+    "comma-style": [2, "last", { "exceptions": {"ArrayExpression": true, "ObjectExpression": true} }],
+    "computed-property-spacing": [1, "always"],
+    "curly": [ 0 ],
+    "id-length": 0,
+    "jsx-quotes": 2,
+    "indent": [2, 4, { "SwitchCase": 1 }],
+    "key-spacing": 0,
+    "no-alert": 0,
+    "no-console": 0,
+    "no-dupe-class-members": 2,
+    "no-else-return": 0,
+    "no-nested-ternary": 0,
+    "no-param-reassign": 0,
+    "no-shadow": 0, // redux requires unbound and bound in same file
+    "no-multi-spaces": 0,
+    "no-multiple-empty-lines": 0,
+    "no-use-before-define": 0,
+    "new-cap": [2, { "capIsNewExceptions": ["mongoose.Schema"] } ],
+    "object-curly-spacing": [1, "always"],
+    "padded-blocks": 0,
+    "prefer-const": 0,
+    "spaced-comments": 0,
+    "space-in-parens": [1, "always", {"exceptions" : [ "{}" ] }],
+    "space-after-keywords": 0,
+    "space-before-blocks": 0,
+    "semi": [1, "never"],
+    "strict": 0
+  },
+  "plugins": [
+    "react",
+    "babel",
+    "import"
+  ],
+  "settings": {
+    "import/parser": "babel-eslint",
+    "import/resolve": {
+      "moduleDirectory": ["node_modules", "src"]
+    }
+  },
+  "globals": {
+    "__DEVELOPMENT__": true,
+    "__CLIENT__": true,
+    "__SERVER__": true,
+    "__DISABLE_SSR__": true,
+    "__DEVTOOLS__": true,
+    "socket": true,
+    "webpackIsomorphicTools": true
+  }
+}

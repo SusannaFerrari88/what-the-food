@@ -37,7 +37,7 @@
           loader: 'babel',
           query: {
             cacheDirectory: true,
-            presets: ['es2015', 'stage-1', 'react']
+            presets: ['es2015', 'stage-0', 'react'],
           }
         },
         {
@@ -46,7 +46,7 @@
           loader: 'babel',
           query: {
             cacheDirectory: true,
-            presets: ['es2015', 'stage-1', 'react']
+            presets: ['es2015', 'stage-0', 'react'],
           }
         }
       ]

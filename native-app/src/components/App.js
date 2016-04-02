@@ -3,74 +3,101 @@
  * https://github.com/jhabdas/react-native-webpack-starter-kit
  */
 import React, { Component, PropTypes } from 'react-native'
-import Jar from './Jar'
+import JarCarousel from './JarCarousel'
 
-const {
-  Platform,
-  StyleSheet,
-  Text,
-  View
-} = React
+const { Platform, StyleSheet, Text, View, ScrollView, TouchableOpacity } = React
+var Button = require( 'react-native-button' )
+
+const TESTING = true
+
 
 export default class App extends Component {
 
-  constructor() {
-    super()
-    this.state = {
-      fillAmount: 0
+    constructor() {
+        super()
+
+        this.handleButtonPress = this.handleButtonPress.bind( this )
+
+        this.state = {
+            jars: [] 
+        }
     }
-  }
 
-  componentDidMount() {
-    var ws = new WebSocket('ws://192.168.77.134:1337')
+    componentDidMount() {
 
-    ws.onopen = () => {
-      // connection opened
-      ws.send( 'Hey I\'m the end user' );
-    };
+        const fn = TESTING ? mock : setupWebSocket
 
-    ws.onmessage = (e) => {
-      // a message was received
-      const payload = JSON.parse( e.data )
-      console.log("received",payload.data.text);
-      this.setState({ fillAmount: payload.data.text})
-    };
+        fn( this.setState.bind( this ) )
 
-    ws.onerror = (e) => {
-      // an error occurred
-      console.log("onerror", e.message);
-    };
+    }
 
-    ws.onclose = (e) => {
-      console.log("onclose", e.code, e.reason);
-    };
-  }
+    handleButtonPress() {
+        console.log( "ORDER MORE" )
+    }
 
-  render() {
-    return (
-      <View style={ styles.container }>
-        <Jar fillAmount={ this.state.fillAmount }/>
-      </View>
-    )
-  }
+    render() {
+
+        const jars = this.state.jars
+        
+        return (
+            <View style={ styles.container }>
+                <JarCarousel jars={ this.state.jars } />
+            </View>
+        )
+    }
 }
 
 
+function setupWebSocket( setState ) {
+    console.log(" setup web socket")
+    // return
+    var ws = new WebSocket( 'ws://192.168.77.134:1337' )
+
+    ws.onopen = () => {
+        // connection opened
+        // ws.send( 'Hey I\'m the end user' );
+    }
+
+    ws.onmessage = ( e ) => {
+        // a message was received
+        //
+        try {
+            console.log( e, typeof e )
+            const payload = JSON.parse( e )
+            console.log( "received", payload )
+        } catch ( e ) {
+            console.log( "error parsing message" )
+            console.log( e )
+        }
+
+    // this.setState({ fillAmount: payload.data.text})
+    }
+
+    ws.onerror = ( e ) => {
+        console.log( "onerror", e.message )
+    }
+
+    ws.onclose = ( e ) => {
+        console.log( "onclose", e.code, e.reason )
+    }
+}
+
 let styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
+    container: {
+        flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center'
+    }
 })
+
+function mock( setState ) {
+    setState({ jars: [ {
+        fillAmount: Math.random(),
+        food      : 'banana'
+    }, {
+        fillAmount: Math.random(),
+        food      : 'pasta'
+    } ] })
+
+    setTimeout( mock, 500, setState )
+}
