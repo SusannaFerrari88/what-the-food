@@ -25,43 +25,15 @@ export default class App extends Component {
                 food      : 'pasta'
             }
         ] }
-
-    // mock( this.setState.bind( this ) )
     }
 
     componentDidMount() {
 
-        // return
-        var ws = new WebSocket( 'ws://192.168.77.134:1337' )
+        const testing = true
+        const fn = testing ? mock : setupWebSocket
 
-        ws.onopen = () => {
-            // connection opened
-            // ws.send( 'Hey I\'m the end user' );
-        }
+        fn( this.setState.bind( this ) )
 
-        ws.onmessage = ( e ) => {
-            // a message was received
-            //
-
-            try {
-                console.log( e, typeof e )
-                const payload = JSON.parse( e )
-                console.log( "received", payload )
-            } catch ( e ) {
-                console.log( "error parsing message" )
-                console.log( e )
-            }
-
-        // this.setState({ fillAmount: payload.data.text})
-        }
-
-        ws.onerror = ( e ) => {
-            console.log( "onerror", e.message )
-        }
-
-        ws.onclose = ( e ) => {
-            console.log( "onclose", e.code, e.reason )
-        }
     }
 
     handleButtonPress() {
@@ -109,6 +81,40 @@ export default class App extends Component {
 }
 
 
+function setupWebSocket( setState ) {
+    // return
+    var ws = new WebSocket( 'ws://192.168.77.134:1337' )
+
+    ws.onopen = () => {
+        // connection opened
+        // ws.send( 'Hey I\'m the end user' );
+    }
+
+    ws.onmessage = ( e ) => {
+        // a message was received
+        //
+
+        try {
+            console.log( e, typeof e )
+            const payload = JSON.parse( e )
+            console.log( "received", payload )
+        } catch ( e ) {
+            console.log( "error parsing message" )
+            console.log( e )
+        }
+
+    // this.setState({ fillAmount: payload.data.text})
+    }
+
+    ws.onerror = ( e ) => {
+        console.log( "onerror", e.message )
+    }
+
+    ws.onclose = ( e ) => {
+        console.log( "onclose", e.code, e.reason )
+    }
+}
+
 let styles = StyleSheet.create({
     container: {
         flex: 1,
@@ -149,5 +155,5 @@ function mock( setState ) {
         food      : 'pasta'
     } ] })
 
-    setTimeout( mock, 100, setState )
+    setTimeout( mock, 500, setState )
 }
