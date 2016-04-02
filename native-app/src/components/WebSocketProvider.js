@@ -1,5 +1,4 @@
 import React, { Component, PropTypes } from 'react-native'
-import App from './App'
 
 const TESTING = true
 
@@ -26,12 +25,14 @@ export default class WebSocketProvider extends Component {
     }
 
     componentDidMount() {
-
-        TESTING ? mock( this.setState.bind( this ) ) : this.setupWebsocket()
+        TESTING
+            ? mock( this.setState.bind( this ) )
+            : this.setupWebsocket()
     }
 
     handleMessage( e ) {
         console.log( '[WS] Message', e )
+
         try {
             const payload = JSON.parse( e.data )
 
@@ -41,9 +42,7 @@ export default class WebSocketProvider extends Component {
                           .map( v => ({ ...v, fillAmount: v.lastValue }) )
             })
         } catch ( e ) {
-
             console.log( '[WS] Invalid JSON' , e.data )
-
         }
     }
 
@@ -52,9 +51,14 @@ export default class WebSocketProvider extends Component {
     }
 
     render() {
-        console.log( '[App:Render]', this.state.data )
-        return <App data={ this.state.data } />
+        const { state: { data }, props: { children } } = this
+        // Infuse data into children passed via jsx
+        return React.cloneElement( children, { data })
     }
+}
+
+WebSocketProvider.propTypes = {
+    children: PropTypes.object.isRequired
 }
 
 function mock( setState ) {
