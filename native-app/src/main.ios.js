@@ -2,7 +2,12 @@
  * React Native Webpack Starter Kit
  * https://github.com/jhabdas/react-native-webpack-starter-kit
  */
+import React from 'react'
 import { AppRegistry } from 'react-native'
-import App from './components/App'
+import WebSocketProvider from './components/WebSocketProvider'
 
-AppRegistry.registerComponent( 'App', () => App )
+
+const Root = () =>
+    <WebSocketProvider />
+
+AppRegistry.registerComponent( 'App', () => Root )

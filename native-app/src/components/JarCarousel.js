@@ -20,12 +20,7 @@ export default class JarCarousel extends Component {
             page: 0
         }
 
-        this.handleButtonPress = this.handleButtonPress.bind( this )
         this.handleScroll = this.handleScroll.bind( this )
-    }
-
-    handleButtonPress() {
-        console.log( "ORDER MORE" )
     }
 
     handleScroll( evt ) {
@@ -67,8 +62,8 @@ export default class JarCarousel extends Component {
     }
 
     render() {
-
-        const jars = this.props.jars
+        const { jars, onOrderMore } = this.props
+        console.log( jars)
 
         if( ! jars.length ) {
             return <Text>No jars provided</Text>
@@ -105,7 +100,7 @@ export default class JarCarousel extends Component {
 
                             <Button
                                 style={ styles.button }
-                                onPress={ this.handleButtonPress }
+                                onPress={ onOrderMore }
                             >
                                 Order more
                             </Button>
@@ -127,9 +122,9 @@ export default class JarCarousel extends Component {
 }
 
 JarCarousel.propTypes = {
-    jars: PropTypes.arrayOf( PropTypes.object.isRequired ).isRequired
+    jars       : PropTypes.arrayOf( PropTypes.object.isRequired ).isRequired,
+    onOrderMore: PropTypes.func.isRequired
 }
-
 
 
 let styles = StyleSheet.create({
