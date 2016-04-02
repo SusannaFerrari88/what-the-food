@@ -5,72 +5,149 @@
 import React, { Component, PropTypes } from 'react-native'
 import Jar from './Jar'
 
-const {
-  Platform,
-  StyleSheet,
-  Text,
-  View
-} = React
+const { Platform, StyleSheet, Text, View, ScrollView, TouchableOpacity } = React
+var Button = require( 'react-native-button' )
+
 
 export default class App extends Component {
 
-  constructor() {
-    super()
-    this.state = {
-      fillAmount: 0
+    constructor() {
+        super()
+
+        this.handleButtonPress = this.handleButtonPress.bind( this )
+
+        this.state = {
+            jars: [ {
+                fillAmount: Math.random(),
+                food      : 'banana'
+            }, {
+                fillAmount: Math.random(),
+                food      : 'pasta'
+            }
+        ] }
+
+    // mock( this.setState.bind( this ) )
     }
-  }
 
-  componentDidMount() {
-    var ws = new WebSocket('ws://192.168.77.134:1337')
+    componentDidMount() {
 
-    ws.onopen = () => {
-      // connection opened
-      ws.send( 'Hey I\'m the end user' );
-    };
+        // return
+        var ws = new WebSocket( 'ws://192.168.77.134:1337' )
 
-    ws.onmessage = (e) => {
-      // a message was received
-      const payload = JSON.parse( e.data )
-      console.log("received",payload.data.text);
-      this.setState({ fillAmount: payload.data.text})
-    };
+        ws.onopen = () => {
+            // connection opened
+            // ws.send( 'Hey I\'m the end user' );
+        }
 
-    ws.onerror = (e) => {
-      // an error occurred
-      console.log("onerror", e.message);
-    };
+        ws.onmessage = ( e ) => {
+            // a message was received
+            //
 
-    ws.onclose = (e) => {
-      console.log("onclose", e.code, e.reason);
-    };
-  }
+            try {
+                console.log( e, typeof e )
+                const payload = JSON.parse( e )
+                console.log( "received", payload )
+            } catch ( e ) {
+                console.log( "error parsing message" )
+                console.log( e )
+            }
 
-  render() {
-    return (
-      <View style={ styles.container }>
-        <Jar fillAmount={ this.state.fillAmount }/>
-      </View>
-    )
-  }
+        // this.setState({ fillAmount: payload.data.text})
+        }
+
+        ws.onerror = ( e ) => {
+            console.log( "onerror", e.message )
+        }
+
+        ws.onclose = ( e ) => {
+            console.log( "onclose", e.code, e.reason )
+        }
+    }
+
+    handleButtonPress() {
+        console.log( "ORDER MORE" )
+    }
+
+    render() {
+        return (
+            <View style={ styles.container }>
+
+                <ScrollView
+                    ref={ scrollView => { this._scrollView = scrollView } }
+                    contentContainerStyle={ styles.scrollViewContentContainer }
+                    automaticallyAdjustContentInsets={ false }
+                    horizontal
+                    pagingEnabled
+                    style={ [ styles.scrollView, styles.horizontalScrollView ] }
+                    showsHorizontalScrollIndicator
+                >
+
+                    { this.state.jars.map( ( j, i ) =>
+                        <View key={ i } style={ styles.scrollviewPage }>
+
+                            <Text style={ styles.foodLabel }>
+                                { j.food }
+                            </Text>
+
+                            <Jar fillAmount={ j.fillAmount }/>
+
+                            <Button
+                                style={ styles.button }
+                                onPress={ this.handleButtonPress }
+                            >
+                                Order more
+                            </Button>
+
+                        </View>
+                    ) }
+
+                </ScrollView>
+
+            </View>
+        )
+    }
 }
 
 
 let styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
+    container: {
+        flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center',
+        backgroundColor: '#F5FCFF',
+    },
+    button: {
+        top: 20
+    },
+    scrollViewContentContainer: {
+        width: 640
+    },
+    foodLabel: {
+        fontSize: 40
+    },
+    scrollviewPage: {
+        width: 320,
+        alignItems: 'center'
+    },
+    scrollView: {
+        width: 320,
+        height: 300,
+        top: 100
+    },
+    button: {
+        top: 30,
+        color: '#000'
+    }
 })
+
+function mock( setState ) {
+    setState({ jars: [ {
+        fillAmount: Math.random(),
+        food      : 'banana'
+    }, {
+        fillAmount: Math.random(),
+        food      : 'pasta'
+    } ] })
+
+    setTimeout( mock, 100, setState )
+}
