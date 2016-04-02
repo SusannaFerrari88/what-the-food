@@ -38,8 +38,7 @@ export default class App extends Component {
     render() {
 
         const jars = this.state.jars
-        console.log( jars, jars.length, typeof jars.length )
-
+        
         return (
             <View style={ styles.container }>
                 <JarCarousel jars={ this.state.jars } />
@@ -87,8 +86,7 @@ let styles = StyleSheet.create({
     container: {
         flex: 1,
         justifyContent: 'center',
-        alignItems: 'center',
-        backgroundColor: '#F5FCFF',
+        alignItems: 'center'
     }
 })
 
