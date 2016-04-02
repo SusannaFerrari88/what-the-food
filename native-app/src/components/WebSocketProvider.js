@@ -7,7 +7,9 @@ export default class WebSocketProvider extends Component {
         super()
 
         this.state = {
-            data: TESTING ? generateTestData() : {}
+            data: TESTING ? generateTestData() : {
+                jars: []
+            }
         }
     }
 
@@ -50,7 +52,6 @@ export default class WebSocketProvider extends Component {
     }
 
     render() {
-        console.log(this.state)
         const { state: { data }, props: { children } } = this
         // Infuse data into children passed via jsx
         return React.cloneElement( children, { data })

@@ -45,12 +45,9 @@ let styles = StyleSheet.create({
         // borderColor: 'blue',
         // borderWidth: 2
     },
-    jar: {
-        // Need to style in Jar.js
-    },
     foodLabel: {
         top: 20,
-        fontSize: 40
+        fontSize: 40,
     },
     button: {
         top: 80,

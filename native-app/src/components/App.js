@@ -40,11 +40,6 @@ App.propTypes = {
         jars: PropTypes.array.isRequried
     })
 }
-App.defaultProps = {
-    data: {
-        jars: []
-    }
-}
 
 let styles = StyleSheet.create({
     container: {

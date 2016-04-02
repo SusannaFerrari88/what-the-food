@@ -44,7 +44,7 @@ export default class JarCarousel extends Component {
 
             const key = i === page ? 'activePage' : 'inactivePage'
             let element = (
-                <Text key={ i + '-text' } style={ styles[ key ] } >
+                <Text key={ i + '-text' } style={ [ styles.text, styles[ key ] ] } >
                     { p.food }
                 </Text>
             )
