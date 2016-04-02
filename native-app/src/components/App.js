@@ -3,37 +3,58 @@
  * https://github.com/jhabdas/react-native-webpack-starter-kit
  */
 import React, { Component, PropTypes } from 'react-native'
+import Jar from './Jar'
 
 const {
   Platform,
   StyleSheet,
   Text,
-  View,
+  View
 } = React
 
-const App = ({
-  instructions,
-}) =>
-  <View style={styles.container}>
-    <Text style={styles.welcome}>
-      Welcome to React Native!
-    </Text>
-    <Text style={styles.instructions}>
-      To get started, edit index.{Platform.OS}.js
-    </Text>
-    <Text style={styles.instructions}>
-      {instructions}
-    </Text>
-  </View>
+export default class App extends Component {
 
-App.propTypes = {
-  instructions: PropTypes.string,
+  constructor() {
+    super()
+    this.state = {
+      fillAmount: 0
+    }
+  }
+
+  componentDidMount() {
+    var ws = new WebSocket('ws://192.168.77.134:1337')
+
+    ws.onopen = () => {
+      // connection opened
+      ws.send( 'Hey I\'m the end user' );
+    };
+
+    ws.onmessage = (e) => {
+      // a message was received
+      const payload = JSON.parse( e.data )
+      console.log("received",payload.data.text);
+      this.setState({ fillAmount: payload.data.text})
+    };
+
+    ws.onerror = (e) => {
+      // an error occurred
+      console.log("onerror", e.message);
+    };
+
+    ws.onclose = (e) => {
+      console.log("onclose", e.code, e.reason);
+    };
+  }
+
+  render() {
+    return (
+      <View style={ styles.container }>
+        <Jar fillAmount={ this.state.fillAmount }/>
+      </View>
+    )
+  }
 }
 
-App.defaultProps = {
-  ...Component.defaultProps,
-  instructions: 'Usage instructions not provided.',
-}
 
 let styles = StyleSheet.create({
   container: {
@@ -53,5 +74,3 @@ let styles = StyleSheet.create({
     marginBottom: 5,
   },
 })
-
-export default App

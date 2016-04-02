@@ -15,6 +15,9 @@
       'index.ios': ['./src/main.ios.js'],
       'index.android': ['./src/main.android.js'],
     },
+    resolve: {
+      modulesDirectory: [ './node_modules' ]
+    },
     output: {
       path: path.resolve(__dirname, 'build'),
       filename: '[name].js',
