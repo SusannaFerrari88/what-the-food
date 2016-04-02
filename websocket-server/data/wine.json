@@ -1,0 +1,2040 @@
+{
+	"Campaign": {
+		"containerItemType": "CAMPAIGN",
+		"hasSubContainer": false,
+		"campaignId": 16537,
+		"starttime": 1457046000000,
+		"endtime": 4612719600000,
+		"url": "NOT_USED",
+		"hideStoreIcon": true,
+		"campaignType": "PERMANENT",
+		"campaignLanguageSet": {
+			"CampaignLanguageSet": {
+				"langCode": "de",
+				"title": "Weine zu Ostern",
+				"shortTitle": "Weine zu Ostern",
+				"groupName": "Weine zu Ostern"
+			}
+		},
+		"ContainerItems": [
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 922,
+					"erpNumber": "000000000100000076",
+					"ean": "20004965",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 2.79,
+					"basicprice": "(1 l = € 3.72)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p922?productId=922&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/0/0/9/2/2/linderhof-jahrgangssekt-trocken-2014-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/0/0/9/2/2/linderhof-jahrgangssekt-trocken-2014-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/0/0/9/2/2/linderhof-jahrgangssekt-trocken-2014-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Linderhof Jahrgangssekt, trocken 2014",
+							"subtitle": "Herkunft: Deutschland Geschmack: trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 1301
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 16,
+						"ratingStars": 4.6,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=922&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 14170,
+					"erpNumber": "000000000100001287",
+					"ean": "4009216975108",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 6.49,
+					"basicprice": "(1 l = € 8.66)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": true,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p14170?productId=14170&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/4/1/7/0/schloss-munzingen-riesling-brut-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/4/1/7/0/schloss-munzingen-riesling-brut-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/4/1/7/0/schloss-munzingen-riesling-brut-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Schloss Munzingen Riesling, brut",
+							"subtitle": "Herkunft:Deutschland Geschmack: brut",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 219
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 3,
+						"ratingStars": 4.3,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=14170&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 51013,
+					"erpNumber": "000000000100025416",
+					"ean": "4010333809399",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 5.39,
+					"basicprice": "(1 l = € 7.19)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": true,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p51013?productId=51013&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/5/1/0/1/3/terra-secco-rose-perlwein-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/5/1/0/1/3/terra-secco-rose-perlwein-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/5/1/0/1/3/terra-secco-rose-perlwein-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Terra Secco Rosé, Perlwein",
+							"subtitle": "Herkunft: Deutschland Anbaugebiet: Württemberg Geschmack: trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 0
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=51013&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 51015,
+					"erpNumber": "000000000100025412",
+					"ean": "4010333028967",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 3.99,
+					"basicprice": "(1 l = € 5.32)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": true,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p51015?productId=51015&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/5/1/0/1/5/frugecco-rot-weincocktail-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/5/1/0/1/5/frugecco-rot-weincocktail-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/5/1/0/1/5/frugecco-rot-weincocktail-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "FruGecco Rot, Weincocktail",
+							"subtitle": "Herkunft: Deutschland Anbaugebiet: Württemberg",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 697
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 4.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=51015&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 67152,
+					"erpNumber": "000000000100040982",
+					"ean": "20032579",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 1.99,
+					"basicprice": "(1 l = € 2.66)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p67152?productId=67152&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/6/7/1/5/2/moinho-de-vento-lisboa-rosewein-2014-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/6/7/1/5/2/moinho-de-vento-lisboa-rosewein-2014-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/6/7/1/5/2/moinho-de-vento-lisboa-rosewein-2014-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Moinho de Vento Lisboa, Roséwein 2014",
+							"subtitle": "Herkunft: Portugal Anbaugebiet: Lisboa Geschmack: trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 391
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 4,
+						"ratingStars": 4.5,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=67152&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 69725,
+					"erpNumber": "000000000100043582",
+					"ean": "20114589",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 2.29,
+					"basicprice": "(1 l = € 3.06)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p69725?productId=69725&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/6/9/7/2/5/bianco-di-custoza-dop-weisswein-2014-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/6/9/7/2/5/bianco-di-custoza-dop-weisswein-2014-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/6/9/7/2/5/bianco-di-custoza-dop-weisswein-2014-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Bianco di Custoza DOP, Weißwein 2014",
+							"subtitle": "Herkunft: Italien Anbaugebiet: Venetien Geschmack: trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 1122
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 2,
+						"ratingStars": 3.5,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=69725&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 172566,
+					"erpNumber": "000000000100155542",
+					"ean": "20507411",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 8.99,
+					"basicprice": "(1 l = € 11.99)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p172566?productId=172566&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/2/5/6/6/herzog-von-nassau-riesling-sekt-b-a-brut-thumbnail--3.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/2/5/6/6/herzog-von-nassau-riesling-sekt-b-a-brut-regular--3.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/2/5/6/6/herzog-von-nassau-riesling-sekt-b-a-brut-zoom--3.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Herzog von Nassau Riesling Sekt b.A., brut",
+							"subtitle": "Herkunft: Deutschland Anbaugebiet: Rheingau Geschmack: brut",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 889
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 14080,
+							"starttime": 1429135200000,
+							"endtime": 4584808800000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/4/0/8/0/180061b1-a7ab-4053-9b3e-a3006a6202ae.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Sieger-Weine\nBerliner Wein Trophy",
+									"shortTitle": "Sieger-Weine",
+									"subTitle": "Berliner Wein Trophy",
+									"groupName": "Sieger-Weine - Berliner Wein Trophy"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=172566&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 175068,
+					"erpNumber": "000000000100157815",
+					"ean": "20014803",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 1.99,
+					"basicprice": "(1 l = € 2.66)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p175068?productId=175068&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/5/0/6/8/spumante-bianco-dolce-thumbnail--3.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/5/0/6/8/spumante-bianco-dolce-regular--3.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/5/0/6/8/spumante-bianco-dolce-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Spumante Bianco, dolce",
+							"subtitle": "Herkunft: Italien Geschmack: süß",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 1133
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 8,
+						"ratingStars": 4.7,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=175068&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 175243,
+					"erpNumber": "000000000100158032",
+					"ean": "5602154601499",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 3.99,
+					"basicprice": "(1 l = € 5.32)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p175243?productId=175243&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/5/2/4/3/adega-de-borba-branco-doc-weisswein-2014-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/5/2/4/3/adega-de-borba-branco-doc-weisswein-2014-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/5/2/4/3/adega-de-borba-branco-doc-weisswein-2014-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Adega de Borba Branco DOC, Weißwein 2014",
+							"subtitle": "Herkunft: Portugal Anbaugebiet: Alentejano Geschmack: trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 1986
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 7,
+						"ratingStars": 3.7,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=175243&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 178898,
+					"erpNumber": "000000000100160812",
+					"ean": "3533112111007",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 5.49,
+					"oldPrice": 8.49,
+					"basicprice": "(1 l = € 7.32)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p178898?productId=178898&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/8/8/9/8/chateau-la-croix-bonnelle-saint-emilion-aop-rotwein-2011-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/8/8/9/8/chateau-la-croix-bonnelle-saint-emilion-aop-rotwein-2011-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/8/8/9/8/chateau-la-croix-bonnelle-saint-emilion-aop-rotwein-2011-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Château La Croix Bonnelle Saint-Émilion AOP, Rotwein 2011",
+							"subtitle": "Herkunft: Frankreich Anbaugebiet: Bordeaux Geschmack: trocken",
+							"priceText": "je 0.75-l",
+							"discountText": "-35%"
+						}
+					},
+					"stock": {
+						"stockValue": 5328
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=178898&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 179182,
+					"erpNumber": "000000000100161092",
+					"ean": "3434431081012",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 14.99,
+					"basicprice": "(1 l = € 19.99)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p179182?productId=179182&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/9/1/8/2/chateau-du-rocher-saint-emilion-grand-cru-aop-rotwein-2008-thumbnail--3.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/9/1/8/2/chateau-du-rocher-saint-emilion-grand-cru-aop-rotwein-2008-regular--3.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/9/1/8/2/chateau-du-rocher-saint-emilion-grand-cru-aop-rotwein-2008-zoom--3.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Château du Rocher Saint-Émilion Grand Cru AOP, Rotwein 2008",
+							"subtitle": "Herkunft: Frankreich Anbaugebiet: Bordeaux Geschmack: trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 2945
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 14080,
+							"starttime": 1429135200000,
+							"endtime": 4584808800000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/4/0/8/0/180061b1-a7ab-4053-9b3e-a3006a6202ae.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Sieger-Weine\nBerliner Wein Trophy",
+									"shortTitle": "Sieger-Weine",
+									"subTitle": "Berliner Wein Trophy",
+									"groupName": "Sieger-Weine - Berliner Wein Trophy"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=179182&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 179184,
+					"erpNumber": "000000000100161094",
+					"ean": "3429671146515",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 15.99,
+					"basicprice": "(1 l = € 21.32)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p179184?productId=179184&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/9/1/8/4/lady-laroze-saint-emilion-grand-cru-aop-rotwein-2011-thumbnail--3.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/9/1/8/4/lady-laroze-saint-emilion-grand-cru-aop-rotwein-2011-regular--3.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/9/1/8/4/lady-laroze-saint-emilion-grand-cru-aop-rotwein-2011-zoom--3.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Lady Laroze Saint-Émilion Grand Cru AOP, Rotwein 2011",
+							"subtitle": "Herkunft: Frankreich Anbaugebiet: Bordeaux, Saint-Émilion AOP Geschmack: trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 2601
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 14080,
+							"starttime": 1429135200000,
+							"endtime": 4584808800000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/4/0/8/0/180061b1-a7ab-4053-9b3e-a3006a6202ae.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Sieger-Weine\nBerliner Wein Trophy",
+									"shortTitle": "Sieger-Weine",
+									"subTitle": "Berliner Wein Trophy",
+									"groupName": "Sieger-Weine - Berliner Wein Trophy"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=179184&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 179238,
+					"erpNumber": "000000000100161148",
+					"ean": "3295890186843",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 9.99,
+					"basicprice": "(1 l = € 13.32)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p179238?productId=179238&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/9/2/3/8/chateau-barateau-haut-medoc-aoc-cru-bourgeois-rotwein-2010-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/9/2/3/8/chateau-barateau-haut-medoc-aoc-cru-bourgeois-rotwein-2010-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/9/2/3/8/chateau-barateau-haut-medoc-aoc-cru-bourgeois-rotwein-2010-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Château Barateau Haut-Médoc AOC Cru Bourgeois, Rotwein 2010",
+							"subtitle": "Herkunft: Frankreich Anbaugebiet: Bordeaux Geschmack: trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 1048
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=179238&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 179358,
+					"erpNumber": "000000000100161254",
+					"ean": "3332750005309",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 4.69,
+					"basicprice": "(1 l = € 6.26)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p179358?productId=179358&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/9/3/5/8/bio-vin-d-alsace-wilhelm-riesling-aop-weisswein-2013-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/9/3/5/8/bio-vin-d-alsace-wilhelm-riesling-aop-weisswein-2013-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/9/3/5/8/bio-vin-d-alsace-wilhelm-riesling-aop-weisswein-2013-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Bio Vin d'Alsace Wilhelm Riesling AOP Weißwein 2013",
+							"subtitle": "Herkunft: Frankreich Anbaugebiet: Alsace Geschmack: trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 1078
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=179358&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 179454,
+					"erpNumber": "000000000100161348",
+					"ean": "3475769300024",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 3.99,
+					"basicprice": "(1 l = € 5.32)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p179454?productId=179454&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/9/4/5/4/domaine-de-gagnebert-cabernet-d-anjou-aop-rosewein-2013-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/9/4/5/4/domaine-de-gagnebert-cabernet-d-anjou-aop-rosewein-2013-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/9/4/5/4/domaine-de-gagnebert-cabernet-d-anjou-aop-rosewein-2013-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Domaine de Gagnebert Cabernet d'Anjou AOP, Roséwein 2013",
+							"subtitle": "Herkunft: Frankreich Anbaugebiet: Val de Loire Geschmack: lieblich",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 270
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 5,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=179454&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 179496,
+					"erpNumber": "000000000100161392",
+					"ean": "3760094281958",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 3.79,
+					"basicprice": "(1 l = € 5.06)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p179496?productId=179496&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/9/4/9/6/domaine-de-menard-tresor-de-gascogne-cotes-de-cascogne-igp-weisswein-2013-thumbnail--3.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/9/4/9/6/domaine-de-menard-tresor-de-gascogne-cotes-de-cascogne-igp-weisswein-2013-regular--3.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/9/4/9/6/domaine-de-menard-tresor-de-gascogne-cotes-de-cascogne-igp-weisswein-2013-zoom--3.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Domaine de Ménard Trésor de Gascogne Cótes de Cascogne IGP, Weißwein 2013",
+							"subtitle": "Herkunft: Frankreich Anbaugebiet: Sud-Ouest Geschmack: lieblich",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 763
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 4,
+						"ratingStars": 3.5,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=179496&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 182420,
+					"erpNumber": "000000000100164013",
+					"ean": "4040354200912",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 7.99,
+					"basicprice": "(1 l = € 10.66)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p182420?productId=182420&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/8/2/4/2/0/edition-alte-vogtei-zu-ravensburg-kraichgau-rose-qba-rosewein-2013-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/8/2/4/2/0/edition-alte-vogtei-zu-ravensburg-kraichgau-rose-qba-rosewein-2013-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/8/2/4/2/0/edition-alte-vogtei-zu-ravensburg-kraichgau-rose-qba-rosewein-2013-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Edition Alte Vogtei zu Ravensburg Kraichgau Rosé QbA, Roséwein 2013",
+							"subtitle": "Herkunft: Deutschland Anbaugebiet: Baden Geschmack: trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 260
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 13894,
+							"starttime": 1423609200000,
+							"endtime": 4579282800000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/3/8/9/4/5a7077a7-041e-4572-875a-366c21d6ecfd.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Reduzierte Weine\nJetzt sparen",
+									"shortTitle": "Reduzierte Weine",
+									"subTitle": "Jetzt sparen",
+									"groupName": "Reduzierte Weine - Jetzt sparen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 5,
+						"ratingStars": 4.5,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=182420&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 196841,
+					"erpNumber": "000000000100175367",
+					"ean": "8003625001065",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 2.69,
+					"basicprice": "(1 l = € 3.59)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p196841?productId=196841&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/9/6/8/4/1/bella-bellina-moscato-fragolata-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/9/6/8/4/1/bella-bellina-moscato-fragolata-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/9/6/8/4/1/bella-bellina-moscato-fragolata-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Bella Bellina Moscato Fragolata",
+							"subtitle": "Herkunft: Italien Geschmack: süß",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 459
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 3,
+						"ratingStars": 4.3,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=196841&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 198164,
+					"erpNumber": "000000000100177446",
+					"ean": "8436013812163",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 3.99,
+					"basicprice": "(1 l = € 5.32)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p198164?productId=198164&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/9/8/1/6/4/condesa-de-leganza-castilla-la-mancha-weisswein-2014-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/9/8/1/6/4/condesa-de-leganza-castilla-la-mancha-weisswein-2014-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/9/8/1/6/4/condesa-de-leganza-castilla-la-mancha-weisswein-2014-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Condesa de Leganza Castilla-La Mancha, Weißwein 2014",
+							"subtitle": "Herkunft: Spanien Anbaugebiet: Castilla-La Mancha Geschmack: trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 983
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 3,
+						"ratingStars": 4.3,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=198164&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 200215,
+					"erpNumber": "000000000100176144",
+					"ean": "20565695",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 1.59,
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p200215?productId=200215&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/0/2/1/5/tempranillo-rosewein-2014-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/0/2/1/5/tempranillo-rosewein-2014-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/0/2/1/5/tempranillo-rosewein-2014-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Tempranillo, Roséwein 2014",
+							"subtitle": "Herkunft: Spanien Geschmack: trocken",
+							"priceText": "je 1-l"
+						}
+					},
+					"stock": {
+						"stockValue": 314
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 8,
+						"ratingStars": 3.9,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=200215&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 200296,
+					"erpNumber": "000000000100178732",
+					"ean": "5202207107147",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 8.99,
+					"basicprice": "(1 l = € 11.99)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p200296?productId=200296&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/0/2/9/6/amethystos-blanc-weisswein-2014-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/0/2/9/6/amethystos-blanc-weisswein-2014-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/0/2/9/6/amethystos-blanc-weisswein-2014-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Amethystos Blanc, Weißwein 2014",
+							"subtitle": "Herkunft: Griechenland Anbaugebiet: Drama Geschmack: trocken",
+							"priceText": "je 750-ml"
+						}
+					},
+					"stock": {
+						"stockValue": 1986
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=200296&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 203113,
+					"erpNumber": "000000000100180819",
+					"ean": "20534646",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 6.99,
+					"basicprice": "(1 l = € 9.32)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p203113?productId=203113&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/3/1/1/3/marquis-de-plagne-cremant-de-bourgogne-aop-schaumwein-brut-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/3/1/1/3/marquis-de-plagne-cremant-de-bourgogne-aop-schaumwein-brut-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/3/1/1/3/marquis-de-plagne-cremant-de-bourgogne-aop-schaumwein-brut-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Marquis de Plagne Crémant de Bourgogne AOP, Schaumwein brut",
+							"subtitle": "Herkunft: Frankreich Anbaugebiet: Bourgogne Geschmack: brut",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 190
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 3,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=203113&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 203236,
+					"erpNumber": "000000000100180918",
+					"ean": "5601356013161",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 3.99,
+					"basicprice": "(1 l = € 5.32)",
+					"taxCode": "FULL",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p203236?productId=203236&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/3/2/3/6/porta-da-ravessa-weisswein-alentejo-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/3/2/3/6/porta-da-ravessa-weisswein-alentejo-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/3/2/3/6/porta-da-ravessa-weisswein-alentejo-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Porta da Ravessa Weisswein Alentejo",
+							"subtitle": "Herkunft: Portugal Anbaugebiet: Alentejo Geschmack: trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 1802
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=203236&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 203880,
+					"erpNumber": "000000000100181341",
+					"ean": "8437005411425",
+					"maxOrderQuantity": 10,
+					"adultsOnly": true,
+					"price": 4.99,
+					"basicprice": "(1 l = € 6.66)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p203880?productId=203880&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/3/8/8/0/5-oros-rioja-d-o-ca-joven-rotwein-2014-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/3/8/8/0/5-oros-rioja-d-o-ca-joven-rotwein-2014-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/3/8/8/0/5-oros-rioja-d-o-ca-joven-rotwein-2014-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "5 Oros Rioja D.O.Ca Joven, Rotwein 2014",
+							"subtitle": "Herkunft: Spanien Anbaugebiet: Rioja Geschmack: trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 2587
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 2,
+						"ratingStars": 4.5,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=203880&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 204060,
+					"erpNumber": "000000000100181354",
+					"ean": "4006975181481",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 3.99,
+					"basicprice": "(1 l = € 5.32)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": true,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p204060?productId=204060&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/4/0/6/0/mosel-pinot-blanc-qba-weisswein-2014-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/4/0/6/0/mosel-pinot-blanc-qba-weisswein-2014-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/4/0/6/0/mosel-pinot-blanc-qba-weisswein-2014-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Mosel Pinot Blanc QbA, Weißwein 2014",
+							"subtitle": "Herkunft: Deutschland Anbaugebiet: Mosel Geschmack: ohne Angabe",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 326
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=204060&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 204310,
+					"erpNumber": "000000000100181706",
+					"ean": "4006314707105",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 4.99,
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": true,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p204310?productId=204310&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/4/3/1/0/breisgauer-spaetburgunder-weissherbst-rosewein-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/4/3/1/0/breisgauer-spaetburgunder-weissherbst-rosewein-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/4/3/1/0/breisgauer-spaetburgunder-weissherbst-rosewein-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Breisgauer Spätburgunder Weißherbst, Roséwein",
+							"subtitle": "Herkunft:Deutschland Anbaugebiet:Baden Geschmack:trocken",
+							"priceText": "je 1-l"
+						}
+					},
+					"stock": {
+						"stockValue": 416
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 4.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=204310&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 207231,
+					"erpNumber": "000000000100183949",
+					"ean": "4010333904216",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 5.49,
+					"basicprice": "(1 l = € 7.32)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": true,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p207231?productId=207231&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/7/2/3/1/terra-s-rose-rosewein-2014-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/7/2/3/1/terra-s-rose-rosewein-2014-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/7/2/3/1/terra-s-rose-rosewein-2014-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "TERRA S Rosé, Roséwein 2014",
+							"subtitle": "Herkunft: Deutschland Anbaugebiet: Württemberg Geschmack: trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 23
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=207231&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 207260,
+					"erpNumber": "000000000100183981",
+					"ean": "4006840284552",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 4.49,
+					"basicprice": "(1 l = € 5.99)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": true,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p207260?productId=207260&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/7/2/6/0/wuerttemberger-edition-gourmet-pinot-meunier-rose-rosewein-2014-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/7/2/6/0/wuerttemberger-edition-gourmet-pinot-meunier-rose-rosewein-2014-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/7/2/6/0/wuerttemberger-edition-gourmet-pinot-meunier-rose-rosewein-2014-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Württemberger Edition Gourmet Pinot Meunier rosé, Roséwein 2014",
+							"subtitle": "Herkunft: Deutschland Anbaugebiet: Württemberg Geschmack: halbtrocken  ",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 287
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=207260&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 209220,
+					"erpNumber": "000000000100185106",
+					"ean": "3760212098673",
+					"maxOrderQuantity": 10,
+					"adultsOnly": true,
+					"price": 2.99,
+					"basicprice": "(1 l = € 3.99)",
+					"taxCode": "FULL",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p209220?productId=209220&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/9/2/2/0/clostre-runel-saint-chinian-aop-rosewein-2014-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/9/2/2/0/clostre-runel-saint-chinian-aop-rosewein-2014-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/9/2/2/0/clostre-runel-saint-chinian-aop-rosewein-2014-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Clostre Runel Saint-Chinian AOP, Roséwein 2014",
+							"subtitle": "Herkunft: Frankreich Anbaugebiet: Saint-Chinian Geschmack: trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 1320
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 4.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=209220&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 209225,
+					"erpNumber": "000000000100185420",
+					"ean": "20339319",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 8.99,
+					"basicprice": "(1 l = € 11.99)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p209225?productId=209225&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/9/2/2/5/corte-del-drago-collio-doc-weisswein-2014-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/9/2/2/5/corte-del-drago-collio-doc-weisswein-2014-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/9/2/2/5/corte-del-drago-collio-doc-weisswein-2014-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Corte del Drago Collio DOC, Weißwein 2014",
+							"subtitle": "Herkunft: Italien Anbaugebiet: Friaul Geschmack: trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 853
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16537,
+							"starttime": 1457046000000,
+							"endtime": 4612719600000,
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Weine zu Ostern",
+									"shortTitle": "Weine zu Ostern",
+									"groupName": "Weine zu Ostern"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=209225&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			}
+		]
+	}
+}

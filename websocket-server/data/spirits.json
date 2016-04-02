@@ -1,0 +1,3453 @@
+{
+	"Campaign": {
+		"containerItemType": "CAMPAIGN",
+		"hasSubContainer": false,
+		"campaignId": 16282,
+		"starttime": 1453935600000,
+		"endtime": 4609609200000,
+		"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+		"url": "NOT_USED",
+		"hideStoreIcon": true,
+		"campaignType": "PERMANENT",
+		"campaignLanguageSet": {
+			"CampaignLanguageSet": {
+				"langCode": "de",
+				"title": "Spirituosen",
+				"shortTitle": "Spirituosen",
+				"groupName": "Spirituosen"
+			}
+		},
+		"ContainerItems": [
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 217291,
+					"erpNumber": "000000000100186890",
+					"ean": "20005061",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 4.59,
+					"basicprice": "(1 l = € 6.56)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p217291?productId=217291&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/7/2/9/1/altstaedter-korn-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/7/2/9/1/altstaedter-korn-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/7/2/9/1/altstaedter-korn-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Altstädter Korn",
+							"subtitle": "Milder, feiner Landkorn aus erlesenem Getreide",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ALTS",
+						"brandName": "Altstädter",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 748
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=217291&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 217290,
+					"erpNumber": "000000000100186889",
+					"ean": "4013380003154",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 2.99,
+					"basicprice": "(1 l = € 8.55)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p217290?productId=217290&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/7/2/9/0/rostocker-klarer-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/7/2/9/0/rostocker-klarer-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/7/2/9/0/rostocker-klarer-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Rostocker Klarer",
+							"subtitle": "Der milde Klare von der Küste nach original Anker Rezept",
+							"priceText": "je 0.35-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ROST",
+						"brandName": "Rostocker",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 610
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=217290&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 217289,
+					"erpNumber": "000000000100186888",
+					"ean": "20005054",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 4.29,
+					"basicprice": "(1 l = € 6.13)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p217289?productId=217289&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/7/2/8/9/altstaedter-klarer-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/7/2/8/9/altstaedter-klarer-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/7/2/8/9/altstaedter-klarer-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Altstädter Klarer",
+							"subtitle": "Der Klare vom Lande - Aus kristallklarem Wasser und feinen Destillaten erzeugt",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ALTS",
+						"brandName": "Altstädter",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 748
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=217289&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 215113,
+					"erpNumber": "000000000100186931",
+					"ean": "20190378",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 2.99,
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p215113?productId=215113&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/5/1/1/3/romanetti-aperitivo-rosso-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/5/1/1/3/romanetti-aperitivo-rosso-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/5/1/1/3/romanetti-aperitivo-rosso-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "ROMANETTI Aperitivo Rosso",
+							"subtitle": "Der Aperitivor Rosso ist ein Symbol italienischer Leidenschaft und Sinnlichkeit, der weltweit Anklang findet",
+							"priceText": "je 1-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ROMA",
+						"brandName": "ROMANETTI",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 568
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=215113&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 215112,
+					"erpNumber": "000000000100186930",
+					"ean": "20190361",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 2.99,
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p215112?productId=215112&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/5/1/1/2/romanetti-aperitivo-bianco-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/5/1/1/2/romanetti-aperitivo-bianco-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/5/1/1/2/romanetti-aperitivo-bianco-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "ROMANETTI Aperitivo Bianco",
+							"subtitle": "Eine Komposition von ausgewählten Weißweinen und erlesenen Kräutern für ein unvergleichliches Geschmackserlebnis",
+							"priceText": "je 1-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ROMA",
+						"brandName": "ROMANETTI",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 587
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=215112&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 215111,
+					"erpNumber": "000000000100186929",
+					"ean": "4012429001311",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 6.79,
+					"basicprice": "(1 l = € 9.70)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p215111?productId=215111&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/5/1/1/1/wilthener-gebirgskraeuter-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/5/1/1/1/wilthener-gebirgskraeuter-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/5/1/1/1/wilthener-gebirgskraeuter-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "WILTHENER Gebirgskräuter",
+							"subtitle": "Likör aus ausgesuchten Kräutern, der für seinen einmaligen Charakter und seine herzhafte Harmonie beliebt ist",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "WILT",
+						"brandName": "WILTHENER",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 757
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=215111&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 215109,
+					"erpNumber": "000000000100186926",
+					"ean": "4014109137112",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 2.89,
+					"basicprice": "(1 l = € 4.13)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p215109?productId=215109&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/5/1/0/9/altenburger-apfellikoer-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/5/1/0/9/altenburger-apfellikoer-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/5/1/0/9/altenburger-apfellikoer-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "ALTENBURGER Apfellikör",
+							"subtitle": "Erfrischend fruchtiger Apfellikör, hergestellt unter Verwendung von Weizenkorn",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ALTB",
+						"brandName": "ALTENBURGER",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 714
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=215109&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 43727,
+					"erpNumber": "000000000100186923",
+					"ean": "20284831",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 3.89,
+					"basicprice": "(1 l = € 5.56)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p43727?productId=43727&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/4/3/7/2/7/gold-advocaat-eierlikoer-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/4/3/7/2/7/gold-advocaat-eierlikoer-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/4/3/7/2/7/gold-advocaat-eierlikoer-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Gold-Advocaat Eierlikör",
+							"subtitle": "Nach geheimer, traditioneller Rezeptur hergestellter Eierlikör mit abgerundetem Geschmack",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "GOAD",
+						"brandName": "Gold-Advocaat",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 682
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=43727&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 215110,
+					"erpNumber": "000000000100186908",
+					"ean": "4012429001144",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 5.29,
+					"basicprice": "(1 l = € 7.56)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p215110?productId=215110&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/5/1/1/0/wilthener-goldkrone-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/5/1/1/0/wilthener-goldkrone-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/5/1/1/0/wilthener-goldkrone-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "WILTHENER Goldkrone",
+							"subtitle": "Nach alter Rezeptur und Tradition von erfahrenen Brennmeistern destilliert. Harmonisch abgerundetes Bouqet",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "WILT",
+						"brandName": "WILTHENER",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 769
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=215110&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 59322,
+					"erpNumber": "000000000100186906",
+					"ean": "20039134",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 11.99,
+					"basicprice": "(1 l = € 17.13)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p59322?productId=59322&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/5/9/3/2/2/majestaet-xo-brandy-de-jerez-solera-gran-reserva-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/5/9/3/2/2/majestaet-xo-brandy-de-jerez-solera-gran-reserva-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/5/9/3/2/2/majestaet-xo-brandy-de-jerez-solera-gran-reserva-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "MAJESTÄT XO Brandy de Jerez Solera Gran Reserva",
+							"subtitle": "Im Solera System gelagerter Brandy de Jerez (Gran Reserva)",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "MAJE",
+						"brandName": "MAJESTÄT",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 367
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=59322&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 215097,
+					"erpNumber": "000000000100186920",
+					"ean": "4014109158599",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 3.59,
+					"basicprice": "(1 l = € 5.13)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p215097?productId=215097&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/5/0/9/7/altenburger-thueringer-luft-pfefferminzlikoer-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/5/0/9/7/altenburger-thueringer-luft-pfefferminzlikoer-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/5/0/9/7/altenburger-thueringer-luft-pfefferminzlikoer-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "ALTENBURGER THÜRINGER LUFT Pfefferminzlikör",
+							"subtitle": "Frischer, vollmundiger Pfefferminzlikör. Schmeckt pur oder im Cocktail",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ALTB",
+						"brandName": "ALTENBURGER",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 692
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=215097&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 17216,
+					"erpNumber": "000000000100186806",
+					"ean": "20330644",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 7.99,
+					"oldPrice": 9.99,
+					"basicprice": "(1 l = € 15.98)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p17216?productId=17216&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/7/2/1/6/goldhauch-haselnuss-edeldestillat-thumbnail--6.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/7/2/1/6/goldhauch-haselnuss-edeldestillat-regular--6.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/7/2/1/6/goldhauch-haselnuss-edeldestillat-zoom--6.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "GOLDHAUCH Haselnuss Edeldestillat",
+							"subtitle": "Mit intensivem Aroma nach knackigen Nüssen und Nougat",
+							"priceText": "je 0.5-l",
+							"discountText": "-20%"
+						}
+					},
+					"brand": {
+						"brandCode": "GOHA",
+						"brandName": "GOLDHAUCH",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 551
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=17216&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 16935,
+					"erpNumber": "000000000100180305",
+					"ean": "20051372",
+					"maxOrderQuantity": 50,
+					"adultsOnly": true,
+					"price": 7.99,
+					"oldPrice": 10.29,
+					"basicprice": "(1 l = € 15.98)",
+					"taxCode": "FULL",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": true,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p16935?productId=16935&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/6/9/3/5/goldhauch-alter-mirabellen-brand-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/6/9/3/5/goldhauch-alter-mirabellen-brand-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/6/9/3/5/goldhauch-alter-mirabellen-brand-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "GOLDHAUCH Alter Mirabellen Brand",
+							"subtitle": "Edler Mirabellenbrand, destilliert aus vollreifen, hocharomatische Mirabellen und sechs Jahre gelagert",
+							"priceText": "je 500-ml",
+							"discountText": "-22%"
+						}
+					},
+					"brand": {
+						"brandCode": "GOHA",
+						"brandName": "GOLDHAUCH",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 3617
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=16935&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213692,
+					"erpNumber": "000000000100186891",
+					"ean": "20145163",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 4.69,
+					"basicprice": "(1 l = € 6.70)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213692?productId=213692&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/2/weizenstolz-weizenkorn-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/2/weizenstolz-weizenkorn-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/2/weizenstolz-weizenkorn-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "WEIZENSTOLZ Weizenkorn",
+							"subtitle": "Milder, feiner Landkorn aus bestem Getreide traditionell destilliert",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "WEIZ",
+						"brandName": "WEIZENSTOLZ",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 777
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213692&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213693,
+					"erpNumber": "000000000100186892",
+					"ean": "20005078",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 5.49,
+					"basicprice": "(1 l = € 7.85)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213693?productId=213693&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/3/altstaedter-doppelkorn-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/3/altstaedter-doppelkorn-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/3/altstaedter-doppelkorn-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Altstädter Doppelkorn",
+							"subtitle": "Zweifach destillierter feiner Kornbrand aus traditionsreichem Haus",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ALTS",
+						"brandName": "Altstädter",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 780
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213693&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213694,
+					"erpNumber": "000000000100186893",
+					"ean": "20005085",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 5.59,
+					"basicprice": "(1 l = € 7.99)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213694?productId=213694&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/4/weizenstolz-doppelweizenkorn-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/4/weizenstolz-doppelweizenkorn-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/4/weizenstolz-doppelweizenkorn-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "WEIZENSTOLZ Doppelweizenkorn",
+							"subtitle": "Zweifach destillierter Kornbrand aus besten Weizenkörnern nach traditoneller Methode gebrannt",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "WEIZ",
+						"brandName": "WEIZENSTOLZ",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 900
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213694&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213695,
+					"erpNumber": "000000000100186894",
+					"ean": "20414535",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 4.99,
+					"basicprice": "(1 l = € 7.13)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213695?productId=213695&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/5/rachmaninoff-wodka-3-fach-destilliert-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/5/rachmaninoff-wodka-3-fach-destilliert-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/5/rachmaninoff-wodka-3-fach-destilliert-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "RACHMANINOFF Wodka 3-fach destilliert",
+							"subtitle": "Dreifach destillierter und mehrfach filtrierter Wodka mit besonderer Milde und Reinheit",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "RACH",
+						"brandName": "RACHMANINOFF",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 719
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213695&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 188278,
+					"erpNumber": "000000000100186807",
+					"ean": "20131364",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 5.59,
+					"basicprice": "(1 l = € 11.18)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p188278?productId=188278&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/8/8/2/7/8/moscato-d-asti-italienischer-grappa-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/8/8/2/7/8/moscato-d-asti-italienischer-grappa-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/8/8/2/7/8/moscato-d-asti-italienischer-grappa-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Moscato D'Asti italienischer Grappa",
+							"subtitle": "Aus dem Trester der berühmten Rebsorte Moscato Bianco destillierte Spezialität aus der Gegend um das Städtchen Asti",
+							"priceText": "je 0.5-l"
+						}
+					},
+					"stock": {
+						"stockValue": 778
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=188278&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 174125,
+					"erpNumber": "000000000100186924",
+					"ean": "20111397",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 3.99,
+					"basicprice": "(1 l = € 5.70)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p174125?productId=174125&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/4/1/2/5/queen-margot-sahne-likoer-mit-whisky-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/4/1/2/5/queen-margot-sahne-likoer-mit-whisky-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/4/1/2/5/queen-margot-sahne-likoer-mit-whisky-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Queen MARGOT Sahne-Likör mit Whisky",
+							"subtitle": "Mit Scotch Whisky abgerundeter Sahnelikör. Köstlich im Geschmack",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "QUMA",
+						"brandName": "Queen MARGOT",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 537
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=174125&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 174126,
+					"erpNumber": "000000000100186901",
+					"ean": "20005177",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 6.99,
+					"basicprice": "(1 l = € 9.99)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p174126?productId=174126&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/4/1/2/6/renchtaeler-obstwasser-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/4/1/2/6/renchtaeler-obstwasser-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/4/1/2/6/renchtaeler-obstwasser-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Renchtäler Obstwasser",
+							"subtitle": "Traditionell hergestellter Obstbrand aus erlesenen, sonnenverwöhnten Äpfeln und Birnen",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "RENC",
+						"brandName": "Renchtäler",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 684
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=174126&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 14953,
+					"erpNumber": "000000000100186907",
+					"ean": "20030216",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 7.99,
+					"basicprice": "(1 l = € 11.42)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p14953?productId=14953&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/4/9/5/3/anessia-griechische-spirituosen-spezialitaet-premium-qualitaet-thumbnail--3.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/4/9/5/3/anessia-griechische-spirituosen-spezialitaet-premium-qualitaet-regular--3.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/4/9/5/3/anessia-griechische-spirituosen-spezialitaet-premium-qualitaet-zoom--3.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "ANESSIA Griechische Spirituosen-Spezialität Premium Qualität",
+							"subtitle": "Griechische Spezialität aus aromatischen Trauben und erlesenen Destillaten",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ANES",
+						"brandName": "ANESSIA",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 534
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=14953&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 62175,
+					"erpNumber": "000000000100186903",
+					"ean": "20141356",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 5.79,
+					"basicprice": "(1 l = € 8.28)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p62175?productId=62175&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/6/2/1/7/5/zachos-ouzo-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/6/2/1/7/5/zachos-ouzo-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/6/2/1/7/5/zachos-ouzo-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "ZACHOS Ouzo",
+							"subtitle": "Spezialität aus dem Norden Griechenlands. Nach jahrhunderte alter Tradition gebrannt",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ZACH",
+						"brandName": "ZACHOS",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 602
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=62175&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 17238,
+					"erpNumber": "000000000100186900",
+					"ean": "20232597",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 9.99,
+					"basicprice": "(1 l = € 14.28)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p17238?productId=17238&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/7/2/3/8/zuenftler-alter-pflaumenbrand-4-jahre-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/7/2/3/8/zuenftler-alter-pflaumenbrand-4-jahre-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/7/2/3/8/zuenftler-alter-pflaumenbrand-4-jahre-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Zünftler Alter Pflaumenbrand 4 Jahre",
+							"subtitle": "Hocharomatischer, gereifter Edelbrand aus erlesenen Pflaumen",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ZÜNF",
+						"brandName": "Zünftler",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 690
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=17238&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 192406,
+					"erpNumber": "000000000100186913",
+					"ean": "20449131",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 5.99,
+					"basicprice": "(1 l = € 8.56)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p192406?productId=192406&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/9/2/4/0/6/james-cook-captain-cook-s-smooth-spiced-rumspirituose-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/9/2/4/0/6/james-cook-captain-cook-s-smooth-spiced-rumspirituose-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/9/2/4/0/6/james-cook-captain-cook-s-smooth-spiced-rumspirituose-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "JAMES COOK Captain Cook´s Smooth & Spiced Rumspirituose",
+							"subtitle": "Bernsteinfarbende, mildwürzige Rumspirituose. Ideal für Mixgetränke",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "JAME",
+						"brandName": "JAMES COOK",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 49
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=192406&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 49556,
+					"erpNumber": "000000000100186916",
+					"ean": "20090685",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 5.99,
+					"basicprice": "(1 l = € 8.56)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p49556?productId=49556&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/4/9/5/5/6/romanetti-amaro-kraeuterlikoer-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/4/9/5/5/6/romanetti-amaro-kraeuterlikoer-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/4/9/5/5/6/romanetti-amaro-kraeuterlikoer-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "ROMANETTI Amaro Kräuterlikör",
+							"subtitle": "Nach original italienischer Rezeptur traditionell hergestellter Amaro",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ROMA",
+						"brandName": "ROMANETTI",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 759
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=49556&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213648,
+					"erpNumber": "000000000100186902",
+					"ean": "20005160",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 5.49,
+					"basicprice": "(1 l = € 7.85)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213648?productId=213648&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/6/4/8/castelgy-london-dry-gin-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/6/4/8/castelgy-london-dry-gin-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/6/4/8/castelgy-london-dry-gin-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "CASTELGY London Dry Gin",
+							"subtitle": "Der Destillation zugegebene Wacholderbeeren, erlesene Kräuter und Früchte bereichern die typischen Aromen des Gin",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "CAGY",
+						"brandName": "CASTELGY",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 804
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213648&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 203217,
+					"erpNumber": "000000000100186897",
+					"ean": "20665685",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 9.99,
+					"basicprice": "(1 l = € 14.28)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p203217?productId=203217&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/3/2/1/7/zuenftler-williams-christ-birnenbrand-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/3/2/1/7/zuenftler-williams-christ-birnenbrand-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/3/2/1/7/zuenftler-williams-christ-birnenbrand-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Zünftler Williams-Christ-Birnenbrand",
+							"subtitle": "Vollmundiger Edelbrand aus Williams-Christ-Birnen",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ZÜNF",
+						"brandName": "Zünftler",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 656
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=203217&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 43728,
+					"erpNumber": "000000000100186922",
+					"ean": "20131258",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 3.99,
+					"basicprice": "(1 l = € 5.70)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p43728?productId=43728&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/4/3/7/2/8/gold-advocaat-eierlikoer-20-vol-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/4/3/7/2/8/gold-advocaat-eierlikoer-20-vol-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/4/3/7/2/8/gold-advocaat-eierlikoer-20-vol-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Gold-Advocaat Eierlikör (20 % vol)",
+							"subtitle": "Nach geheimer, traditioneller Rezeptur hergestellter Eierlikör",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "GOAD",
+						"brandName": "Gold-Advocaat",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 718
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=43728&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213644,
+					"erpNumber": "000000000100186895",
+					"ean": "20414559",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 4.99,
+					"basicprice": "(1 l = € 9.98)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213644?productId=213644&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/6/4/4/putinoff-wodka-premium-5-fach-destilliert-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/6/4/4/putinoff-wodka-premium-5-fach-destilliert-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/6/4/4/putinoff-wodka-premium-5-fach-destilliert-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "PUTINOFF Wodka Premium 5-fach destilliert",
+							"subtitle": "Fünffach destillierter Wodka mit mildem Geschmack durch die Sauerstoffzugabe während der Lagerung",
+							"priceText": "je 0.5-l"
+						}
+					},
+					"brand": {
+						"brandCode": "PUTI",
+						"brandName": "PUTINOFF",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 827
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213644&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213708,
+					"erpNumber": "000000000100186927",
+					"ean": "20005320",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 3.79,
+					"basicprice": "(1 l = € 5.06)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213708?productId=213708&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/8/tio-nico-sherry-medium-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/8/tio-nico-sherry-medium-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/8/tio-nico-sherry-medium-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "TIO NICO Sherry medium",
+							"subtitle": "Bernsteinfarbener Sherry mit angenehm nussigen Bouqet und frischem Aroma",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"brand": {
+						"brandCode": "TION",
+						"brandName": "TIO NICO",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 667
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213708&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213709,
+					"erpNumber": "000000000100186928",
+					"ean": "20015633",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 5.49,
+					"basicprice": "(1 l = € 7.32)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213709?productId=213709&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/9/armilar-ruby-portwein-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/9/armilar-ruby-portwein-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/9/armilar-ruby-portwein-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Armilar Ruby Portwein",
+							"subtitle": "Als idealer Aperitif oder Speisebegleiter besticht dieser Ruby Port mit seinem kräftigen Aroma",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ARMI",
+						"brandName": "Armilar",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 610
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213709&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213710,
+					"erpNumber": "000000000100186932",
+					"ean": "8000020007081",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 4.89,
+					"basicprice": "(1 l = € 6.52)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213710?productId=213710&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/7/1/0/cinzano-bianco-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/7/1/0/cinzano-bianco-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/7/1/0/cinzano-bianco-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "CINZANO Bianco",
+							"subtitle": "Weltweit beliebtes Getränk aus einer Komposition von italienischem Wein und Essenzen aus Kräutern und Gewürzen",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"brand": {
+						"brandCode": "CINO",
+						"brandName": "CINZANO",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 736
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213710&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213704,
+					"erpNumber": "000000000100186918",
+					"ean": "20111373",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 4.99,
+					"basicprice": "(1 l = € 7.13)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213704?productId=213704&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/4/armilar-amaretto-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/4/armilar-amaretto-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/4/armilar-amaretto-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Armilar Amaretto",
+							"subtitle": "Nach italienischem Rezept hergestellter Amaretto mit intensiven Mandelduft und zarten Kakao- und Vanillenoten",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ARMI",
+						"brandName": "Armilar",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 50
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213704&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213705,
+					"erpNumber": "000000000100186919",
+					"ean": "20005269",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 3.99,
+					"basicprice": "(1 l = € 7.98)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213705?productId=213705&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/5/serenade-edelkirschlikoer-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/5/serenade-edelkirschlikoer-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/5/serenade-edelkirschlikoer-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Serenade Edelkirschlikör",
+							"subtitle": "Vollfruchtiger Kirschlikör für besondere Genussmomente",
+							"priceText": "je 0.5-l"
+						}
+					},
+					"brand": {
+						"brandCode": "SERE",
+						"brandName": "Serenade",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 784
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213705&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213706,
+					"erpNumber": "000000000100186921",
+					"ean": "20358181",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 4.99,
+					"basicprice": "(1 l = € 7.13)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213706?productId=213706&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/6/bitterol-bitter-aperitiv-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/6/bitterol-bitter-aperitiv-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/6/bitterol-bitter-aperitiv-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "BITTEROL Bitter Aperitiv",
+							"subtitle": "Der Mix aus erlesenen Kräutern und einem Hauch Orangen-Aroma machen Bitterol zu einem erfrischenden Aperitif",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "BITT",
+						"brandName": "BITTEROL",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 785
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213706&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213707,
+					"erpNumber": "000000000100186925",
+					"ean": "22111722",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 9.99,
+					"basicprice": "(1 l = € 14.28)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213707?productId=213707&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/7/grand-marnier-cordon-jaune-orangenlikoer-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/7/grand-marnier-cordon-jaune-orangenlikoer-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/7/grand-marnier-cordon-jaune-orangenlikoer-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Grand Marnier Cordon Jaune Orangenlikör",
+							"subtitle": "Edelspirituose aus hochwertigem Cognac und Aromen von Bitterorange aus dem Hause Marnier-Lapostolle",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "GRMA",
+						"brandName": "Grand Marnier",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 9
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213707&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213700,
+					"erpNumber": "000000000100186912",
+					"ean": "20005009",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 7.59,
+					"basicprice": "(1 l = € 10.85)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213700?productId=213700&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/0/queen-margot-blended-scotch-whisky-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/0/queen-margot-blended-scotch-whisky-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/0/queen-margot-blended-scotch-whisky-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Queen MARGOT Blended Scotch Whisky",
+							"subtitle": "Vielschichtiger traditioneller Whisky aus einer Auswahl der feinsten Malt und Grain Whiskys",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "QUMA",
+						"brandName": "Queen MARGOT",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 799
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213700&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213701,
+					"erpNumber": "000000000100186914",
+					"ean": "20005030",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 5.49,
+					"basicprice": "(1 l = € 7.85)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213701?productId=213701&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/1/james-cook-echter-uebersee-rum-40-vol-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/1/james-cook-echter-uebersee-rum-40-vol-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/1/james-cook-echter-uebersee-rum-40-vol-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "JAMES COOK Echter Übersee Rum (40 % vol)",
+							"subtitle": "Echter Übersee Rum (40 % vol) mit harmonisch, mildem Aroma",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "JAME",
+						"brandName": "JAMES COOK",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 764
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 2,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213701&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213702,
+					"erpNumber": "000000000100186915",
+					"ean": "20005023",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 6.99,
+					"basicprice": "(1 l = € 9.99)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213702?productId=213702&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/2/james-cook-echter-uebersee-rum-54-vol-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/2/james-cook-echter-uebersee-rum-54-vol-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/2/james-cook-echter-uebersee-rum-54-vol-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "JAMES COOK Echter Übersee Rum (54 % vol)",
+							"subtitle": "Echter Übersee Rum (54 % vol) mit harmonisch, mildem Aroma",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "JAME",
+						"brandName": "JAMES COOK",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 4
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213702&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 16965,
+					"erpNumber": "000000000100186896",
+					"ean": "20005047",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 5.59,
+					"basicprice": "(1 l = 7.13)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p16965?productId=16965&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/6/9/6/5/liberte-weisser-rum-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/6/9/6/5/liberte-weisser-rum-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/6/9/6/5/liberte-weisser-rum-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Liberté Weißer Rum",
+							"subtitle": "Weißer, hocharomatischer Rum. Aus Zuckerrohr der Weltnaturerbe-Insel La Réunion",
+							"priceText": "je 0,7-l-Fl."
+						}
+					},
+					"brand": {
+						"brandCode": "LIBR",
+						"brandName": "Liberté",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 692
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=16965&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213703,
+					"erpNumber": "000000000100186917",
+					"ean": "20005245",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 4.99,
+					"basicprice": "(1 l = € 7.13)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213703?productId=213703&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/3/jagdstolz-kraeuterlikoer-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/3/jagdstolz-kraeuterlikoer-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/7/0/3/jagdstolz-kraeuterlikoer-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Jagdstolz Kräuterlikör",
+							"subtitle": "Aromatischer Kräuterlikör aus erlesenen Kräutern mit herzhaft würzigem Geschmack",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "JAGD",
+						"brandName": "Jagdstolz",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 778
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213703&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213696,
+					"erpNumber": "000000000100186904",
+					"ean": "20004972",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 4.29,
+					"basicprice": "(1 l = € 6.13)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213696?productId=213696&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/6/alliance-goldbrand-spirituose-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/6/alliance-goldbrand-spirituose-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/6/alliance-goldbrand-spirituose-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "ALLIANCE Goldbrand Spirituose",
+							"subtitle": "Deutsches Erzeugnis von erfahrenen Brennmeistern nach traditionellem Verfahren",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ALAN",
+						"brandName": "ALLIANCE",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 746
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 2,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213696&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 17283,
+					"erpNumber": "000000000100186899",
+					"ean": "20232566",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 9.99,
+					"basicprice": "(1 l = € 14.28)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p17283?productId=17283&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/7/2/8/3/zuenftler-altes-schwarzwaelder-kirschwasser-10-jahre-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/7/2/8/3/zuenftler-altes-schwarzwaelder-kirschwasser-10-jahre-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/7/2/8/3/zuenftler-altes-schwarzwaelder-kirschwasser-10-jahre-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Zünftler Altes Schwarzwälder Kirschwasser 10 Jahre",
+							"subtitle": "Nach alter Tradition destilliertes Schwazwälder Kirschwasser",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ZÜNF",
+						"brandName": "Zünftler",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 664
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=17283&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213697,
+					"erpNumber": "000000000100186905",
+					"ean": "20147891",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 5.79,
+					"basicprice": "(1 l = € 8.28)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213697?productId=213697&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/7/majestaet-weinbrand-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/7/majestaet-weinbrand-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/7/majestaet-weinbrand-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "MAJESTÄT Weinbrand",
+							"subtitle": "In original Limousin-Eichenholzfässern gelagerter Weinbrand mit weichem Bouqet und edler Reife",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "MAJE",
+						"brandName": "MAJESTÄT",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 788
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213697&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 17282,
+					"erpNumber": "000000000100186898",
+					"ean": "20232573",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 9.99,
+					"basicprice": "(1 l = € 14.28)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p17282?productId=17282&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/7/2/8/2/zuenftler-wald-himbeergeist-thumbnail--3.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/7/2/8/2/zuenftler-wald-himbeergeist-regular--3.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/7/2/8/2/zuenftler-wald-himbeergeist-zoom--3.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Zünftler Wald-Himbeergeist",
+							"subtitle": "Hocharomatischer Waldhimbeergeist aus fruchtigen Waldhimbeeren",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "ZÜNF",
+						"brandName": "Zünftler",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 692
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 4.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=17282&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213698,
+					"erpNumber": "000000000100186909",
+					"ean": "4045144700702",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 6.99,
+					"basicprice": "(1 l = € 9.99)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213698?productId=213698&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/8/chantre-weinbrand-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/8/chantre-weinbrand-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/8/chantre-weinbrand-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "CHANTRÉ Weinbrand",
+							"subtitle": "Berühmt als \"Chantré, der weiche Weinbrand\", brilliert der Weinbrand durch sein feines Bouquet",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "CHTR",
+						"brandName": "CHANTRÉ",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 517
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 4.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213698&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213699,
+					"erpNumber": "000000000100186910",
+					"ean": "20150051",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 6.89,
+					"basicprice": "(1 l = € 9.85)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213699?productId=213699&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/9/western-gold-canadian-whisky-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/9/western-gold-canadian-whisky-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/6/9/9/western-gold-canadian-whisky-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "WESTERN GOLD Canadian Whisky",
+							"subtitle": "Fein-würzige Auslese bester kanadischer Whiskys. Dreijährig gereift in Eichenholzfässern",
+							"priceText": "je 0.7-l"
+						}
+					},
+					"brand": {
+						"brandCode": "WEGO",
+						"brandName": "WESTERN GOLD",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 578
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16282,
+							"starttime": 1453935600000,
+							"endtime": 4609609200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/2/8/2/4f5ba780-bdf0-407e-be63-54f60630c456.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Spirituosen",
+									"shortTitle": "Spirituosen",
+									"groupName": "Spirituosen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213699&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			}
+		]
+	}
+}

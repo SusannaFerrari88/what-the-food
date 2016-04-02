@@ -1,0 +1,1573 @@
+{
+	"Campaign": {
+		"containerItemType": "CAMPAIGN",
+		"hasSubContainer": false,
+		"campaignId": 15720,
+		"starttime": 1445986800000,
+		"endtime": 4601660400000,
+		"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+		"url": "NOT_USED",
+		"hideStoreIcon": true,
+		"campaignType": "PERMANENT",
+		"campaignLanguageSet": {
+			"CampaignLanguageSet": {
+				"langCode": "de",
+				"title": "Pastasaucen  & Pesto",
+				"shortTitle": "Pastasaucen  & Pesto",
+				"groupName": "Pastasaucen  & Pesto"
+			}
+		},
+		"ContainerItems": [
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 209796,
+					"erpNumber": "000000000100184080",
+					"ean": "4038700117328",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 1.29,
+					"basicprice": "(1 kg = € 3.49)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p209796?productId=209796&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/6/knorr-tomato-al-gusto-basilikum-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/6/knorr-tomato-al-gusto-basilikum-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/6/knorr-tomato-al-gusto-basilikum-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Knorr Tomato al Gusto Basilikum",
+							"priceText": "je 0.37-kg"
+						}
+					},
+					"brand": {
+						"brandCode": "KNRR",
+						"brandName": "Knorr",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 42
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=209796&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 209795,
+					"erpNumber": "000000000100184079",
+					"ean": "4038700117595",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 1.29,
+					"basicprice": "(1 kg = € 3.49)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p209795?productId=209795&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/5/knorr-tomato-al-gusto-all-arrabbiata-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/5/knorr-tomato-al-gusto-all-arrabbiata-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/5/knorr-tomato-al-gusto-all-arrabbiata-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Knorr Tomato al Gusto All`Arrabbiata",
+							"priceText": "je 0.37-kg"
+						}
+					},
+					"brand": {
+						"brandCode": "KNRR",
+						"brandName": "Knorr",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 0
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=209795&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 209794,
+					"erpNumber": "000000000100184078",
+					"ean": "8712566202102",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 1.29,
+					"basicprice": "(1 kg = € 3.49)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p209794?productId=209794&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/4/knorr-tomato-al-gusto-tomaten-bolognese-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/4/knorr-tomato-al-gusto-tomaten-bolognese-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/4/knorr-tomato-al-gusto-tomaten-bolognese-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Knorr Tomato al Gusto Tomaten-Bolognese",
+							"priceText": "je 0.37-kg"
+						}
+					},
+					"brand": {
+						"brandCode": "KNRR",
+						"brandName": "Knorr",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 494
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15631,
+							"starttime": 1444946400000,
+							"endtime": 4600620000000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/6/3/1/c84bb123-b262-46c0-b565-63a27a0b0051.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Vorratsbox\nLidl",
+									"shortTitle": "Vorratsbox",
+									"subTitle": "Lidl",
+									"groupName": "Vorratsbox - Lidl"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=209794&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 209793,
+					"erpNumber": "000000000100184062",
+					"ean": "8076809513746",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 1.99,
+					"oldPrice": 2.95,
+					"basicprice": "(100 g = € 1.05)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p209793?productId=209793&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/3/barilla-pesto-alla-genovese-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/3/barilla-pesto-alla-genovese-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/3/barilla-pesto-alla-genovese-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Barilla Pesto alla Genovese",
+							"subtitle": "Pesto Sauce mit Basilikum",
+							"priceText": "je 190-g",
+							"discountText": "-32%"
+						}
+					},
+					"brand": {
+						"brandCode": "BARL",
+						"brandName": "Barilla",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 194
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=209793&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 209792,
+					"erpNumber": "000000000100184047",
+					"ean": "4038700117403",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 1.29,
+					"basicprice": "(1 kg = € 3.49)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p209792?productId=209792&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/2/knorr-tomato-al-gusto-kraeuter-knoblauch-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/2/knorr-tomato-al-gusto-kraeuter-knoblauch-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/2/knorr-tomato-al-gusto-kraeuter-knoblauch-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Knorr Tomato al Gusto Kräuter-Knoblauch",
+							"priceText": "je 0.37-kg"
+						}
+					},
+					"brand": {
+						"brandCode": "KNRR",
+						"brandName": "Knorr",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 281
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=209792&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 209791,
+					"erpNumber": "000000000100184046",
+					"ean": "4038700117373",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 1.29,
+					"basicprice": "(1 kg = € 3.49)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p209791?productId=209791&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/1/knorr-tomato-al-gusto-kraeuter-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/1/knorr-tomato-al-gusto-kraeuter-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/1/knorr-tomato-al-gusto-kraeuter-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Knorr Tomato al Gusto Kräuter",
+							"priceText": "je 0.37-kg"
+						}
+					},
+					"brand": {
+						"brandCode": "KNRR",
+						"brandName": "Knorr",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 548
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=209791&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 209790,
+					"erpNumber": "000000000100184045",
+					"ean": "8076809513388",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 1.49,
+					"oldPrice": 1.99,
+					"basicprice": "(1 kg = € 3.73)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p209790?productId=209790&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/0/barilla-pasta-sauce-arrabiata-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/0/barilla-pasta-sauce-arrabiata-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/9/7/9/0/barilla-pasta-sauce-arrabiata-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Barilla Pasta Sauce Arrabiata",
+							"subtitle": "Tomatensauce mit Chilischoten",
+							"priceText": "je 0.4-kg",
+							"discountText": "-25%"
+						}
+					},
+					"brand": {
+						"brandCode": "BARL",
+						"brandName": "Barilla",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 233
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=209790&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 209789,
+					"erpNumber": "000000000100184043",
+					"ean": "8076809523547",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 1.99,
+					"oldPrice": 2.95,
+					"basicprice": "(100 g = € 1.00)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p209789?productId=209789&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/9/7/8/9/barilla-pesto-rosso-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/9/7/8/9/barilla-pesto-rosso-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/9/7/8/9/barilla-pesto-rosso-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Barilla Pesto Rosso",
+							"subtitle": "Pesto mit Tomaten, Basilikum und \"Aceto Balsamico di Modena IGP\"",
+							"priceText": "je 200-g",
+							"discountText": "-32%"
+						}
+					},
+					"brand": {
+						"brandCode": "BARL",
+						"brandName": "Barilla",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 143
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=209789&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 15180,
+					"erpNumber": "000000000100184042",
+					"ean": "8076809517751",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 1.99,
+					"oldPrice": 2.95,
+					"basicprice": "(100 g = € 1.05/1.00)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p15180?productId=15180&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/5/1/8/0/barilla-pesto-alla-calabrese-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/5/1/8/0/barilla-pesto-alla-calabrese-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/5/1/8/0/barilla-pesto-alla-calabrese-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Barilla Pesto alla Calabrese",
+							"subtitle": "Pesto mit Paprika und Ricotta-Käse",
+							"priceText": "je 190/200-g-Glas",
+							"discountText": "-32%"
+						}
+					},
+					"brand": {
+						"brandCode": "BARL",
+						"brandName": "Barilla",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 74
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=15180&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 209750,
+					"erpNumber": "000000000100184044",
+					"ean": "8076809513722",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 1.49,
+					"oldPrice": 1.99,
+					"basicprice": "(1 kg = € 3.73)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p209750?productId=209750&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/9/7/5/0/barilla-basilico-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/9/7/5/0/barilla-basilico-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/9/7/5/0/barilla-basilico-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Barilla Basilico",
+							"subtitle": "Pastasauce mit Basilikum",
+							"priceText": "je 0.4-kg",
+							"discountText": "-25%"
+						}
+					},
+					"brand": {
+						"brandCode": "BARL",
+						"brandName": "Barilla",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 299
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=209750&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 205750,
+					"erpNumber": "000000000100180321",
+					"ean": "20621407",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 1.49,
+					"basicprice": "(100 g = € 0.79)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p205750?productId=205750&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/5/7/5/0/deluxe-ricotta-walnuss-pesto-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/5/7/5/0/deluxe-ricotta-walnuss-pesto-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/5/7/5/0/deluxe-ricotta-walnuss-pesto-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Ricotta-Walnuss Pesto",
+							"subtitle": "Zubereitung aus Molkeneiweißkäse & Walnuss",
+							"priceText": "je 190-g"
+						}
+					},
+					"brand": {
+						"brandCode": "DELE",
+						"brandName": "DELUXE",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/2/0/6/3/d3452067-6e64-4c9e-94a1-4b0a3f12847a.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 1472
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=205750&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 188216,
+					"erpNumber": "000000000100180289",
+					"ean": "20448738",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 1.49,
+					"basicprice": "(1 kg = € 4.26)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p188216?productId=188216&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/8/8/2/1/6/deluxe-tomatensauce-thumbnail--11.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/8/8/2/1/6/deluxe-tomatensauce-regular--11.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/8/8/2/1/6/deluxe-tomatensauce-zoom--11.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Tomatensauce",
+							"subtitle": "mit Kirschtomaten und Käse",
+							"priceText": "je 350-g"
+						}
+					},
+					"brand": {
+						"brandCode": "DELE",
+						"brandName": "DELUXE",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/2/0/6/3/d3452067-6e64-4c9e-94a1-4b0a3f12847a.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 2293
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16435,
+							"starttime": 1455663600000,
+							"endtime": 4611337200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/4/3/5/de15faec-7bdd-4107-b118-10b9f0544b87.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe Pakete\nDeluxe",
+									"shortTitle": "Deluxe Pakete",
+									"subTitle": "Deluxe",
+									"groupName": "Deluxe Pakete - Deluxe"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=188216&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 206840,
+					"erpNumber": "000000000100183427",
+					"ean": "20431488",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 1.29,
+					"basicprice": "(1 kg = € 3.69)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p206840?productId=206840&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/6/8/4/0/combino-pastasauce-calabrese-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/6/8/4/0/combino-pastasauce-calabrese-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/6/8/4/0/combino-pastasauce-calabrese-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Pastasauce Calabrese",
+							"subtitle": "mit Pecorino Romano D.O.P.",
+							"priceText": "je 350-g"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 1
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=206840&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 206839,
+					"erpNumber": "000000000100183426",
+					"ean": "20431471",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 1.29,
+					"basicprice": "(1 kg = € 3.69)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p206839?productId=206839&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/9/combino-pastasauce-siciliana-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/9/combino-pastasauce-siciliana-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/9/combino-pastasauce-siciliana-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Pastasauce Siciliana",
+							"subtitle": "mit Aubergine und Käse",
+							"priceText": "je 350-g"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 25
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=206839&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 18222,
+					"erpNumber": "000000000100183424",
+					"ean": "20431457",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 1.29,
+					"basicprice": "(1 kg = € 3.69)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p18222?productId=18222&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/8/2/2/2/combino-pastasauce-romana-thumbnail--7.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/8/2/2/2/combino-pastasauce-romana-regular--7.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/8/2/2/2/combino-pastasauce-romana-zoom--7.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Pastasauce Romana",
+							"subtitle": "mit Ricotta",
+							"priceText": "je 350-g"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 0
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=18222&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 206836,
+					"erpNumber": "000000000100183423",
+					"ean": "20037154",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 0.79,
+					"basicprice": "(1 l = € 1.98)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p206836?productId=206836&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/6/combino-tomatensauce-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/6/combino-tomatensauce-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/6/combino-tomatensauce-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Tomatensauce",
+							"subtitle": "mit Basilikum",
+							"priceText": "je 400-ml"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 23
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=206836&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 206837,
+					"erpNumber": "000000000100183425",
+					"ean": "20431464",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 1.29,
+					"basicprice": "(1 kg = € 3.69)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p206837?productId=206837&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/7/combino-pastasauce-toscana-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/7/combino-pastasauce-toscana-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/7/combino-pastasauce-toscana-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Pastasauce Toscana",
+							"priceText": "je 350-g"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 83
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=206837&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 206835,
+					"erpNumber": "000000000100183422",
+					"ean": "20023218",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 0.79,
+					"basicprice": "(1 l = € 1.98)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p206835?productId=206835&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/5/combino-pastasauce-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/5/combino-pastasauce-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/5/combino-pastasauce-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Pastasauce",
+							"subtitle": "mit Gemüse",
+							"priceText": "je 400-ml"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 26
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=206835&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 206834,
+					"erpNumber": "000000000100183421",
+					"ean": "20003937",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 0.79,
+					"basicprice": "(1 l = € 1.98)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p206834?productId=206834&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/4/combino-bolognesesauce-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/4/combino-bolognesesauce-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/4/combino-bolognesesauce-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Bolognesesauce",
+							"subtitle": "mit Rindfleisch",
+							"priceText": "je 400-ml"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 227
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 5,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=206834&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 206832,
+					"erpNumber": "000000000100183419",
+					"ean": "20425555",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 1.19,
+					"basicprice": "(100 g = € 0.63)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p206832?productId=206832&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/2/italiamo-pesto-alla-genovese-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/2/italiamo-pesto-alla-genovese-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/6/8/3/2/italiamo-pesto-alla-genovese-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "ITALIAMO Pesto alla Genovese",
+							"subtitle": "Basilikumzubereitung",
+							"priceText": "je 190-g"
+						}
+					},
+					"brand": {
+						"brandCode": "ITAL",
+						"brandName": "ITALIAMO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/8/5/3/45bc0a2f-e6e2-415f-995e-c32538919565.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 122
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 2,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=206832&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 109435,
+					"erpNumber": "000000000100183418",
+					"ean": "20425562",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 1.19,
+					"basicprice": "(100 g = € 0.63)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p109435?productId=109435&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/0/9/4/3/5/italiamo-pesto-rosso-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/0/9/4/3/5/italiamo-pesto-rosso-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/0/9/4/3/5/italiamo-pesto-rosso-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "ITALIAMO Pesto Rosso",
+							"priceText": "je 190-g"
+						}
+					},
+					"brand": {
+						"brandCode": "ITAL",
+						"brandName": "ITALIAMO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/8/5/3/45bc0a2f-e6e2-415f-995e-c32538919565.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 15
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15720,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/2/0/b4e7297a-7372-45fb-969a-84586f53b101.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pastasaucen  & Pesto",
+									"shortTitle": "Pastasaucen  & Pesto",
+									"groupName": "Pastasaucen  & Pesto"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=109435&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			}
+		]
+	}
+}

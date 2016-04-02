@@ -10,6 +10,7 @@ var webSocketsServerPort = 1337;
 // websocket and http servers
 var webSocketServer = require('websocket').server;
 var http = require('http');
+var lidl = require('./lidl');
 
 /**
  * Global variables
@@ -20,12 +21,7 @@ var history = [ ];
 var clients = [ ];
 // maps food and sensors 
 var foods = { };
-
-var ipAddress = {
-    sensor1 : "192.168.77.199", 
-    app : "192.168.77.157",
-    websocketServer : "192.168.77.134"        
-};
+foods["1"] = { };
 
 /**
  * Helper function for escaping input strings
@@ -63,13 +59,16 @@ wsServer.on('request', function(request) {
     // accept connection - you should check 'request.origin' to make sure that
     // client is connecting from your website
     // (http://en.wikipedia.org/wiki/Same_origin_policy)
-    var connection = request.accept(null, request.origin); 
+    var connection = request.accept(null, request.origin);
     // we need to know client index to remove them on 'close' event
     var index = clients.push(connection) - 1;
     var userName = false;
 
     console.log((new Date()) + ' Connection accepted.');
 
+    if(foods["1"].lastValue) {
+        sendSupplyLevelValue(foods["1"].lastValue);
+    }
     // user sent some data
     connection.on('message', function(data) {
     	console.log(data);
@@ -77,47 +76,41 @@ wsServer.on('request', function(request) {
         console.log(clientIp);
 
         if (userName === false) { // first data sent by user is their name
-                // remember user name
-                userName = clientIp;
-                console.log((new Date()) + ' User is known as: ' + userName);
+            // remember user name
+            userName = clientIp;
+            console.log((new Date()) + ' User is known as: ' + userName);
         }
 
-        // if the data is coming from sensor1 
-        if (clientIp == ipAddress.websocketServer) { // accept only text
+        if(data.type == 'utf8') {
             console.log((new Date()) + ' Received data from '
-                        + userName + ': ' + data.utf8Data);
-            
-            var supplyLevel = parseInt(data.utf8Data) / 100;
+                + userName + ': ' + data.utf8Data);
 
-            // we want to keep history of all sent datas
-            var obj = {
-                time: (new Date()).getTime(),
-                value: supplyLevel,
-                author: userName, 
-                food: foods["1"]
-            };
-            history.push(obj);
-            history = history.slice(-100);
-
-            // broadcast data to all connected clients
-            var json = JSON.stringify(obj);
-            for (var i=0; i < clients.length; i++) {
-                clients[i].sendUTF(json);
-            }
-            console.log("Sent push notification to all clients.\n" + json);
-        }
-
-        if(clientIp == ipAddress.websocketServer) {
-            var request;
             try {
                 request = JSON.parse(data.utf8Data);
             } catch (e) {
                 console.log('This doesn\'t look like a valid JSON: ', data.utf8Data);
                 return;
             }
+
+            // if it's a number
+            var supplyLevel = parseInt(request) / 100;
+            if(supplyLevel) {
+                foods["1"].lastValue = supplyLevel;
+                sendSupplyLevelValue(supplyLevel);
+            } 
+            
             if(request.sensorId && request.food) {
-                foods[request.sensorId] = request.food;
+                foods[request.sensorId].food = request.food;
                 console.log("Food configuration stored. { " +request.sensorId + " : " + request.food + " } ");
+            }
+
+            if(request.product) {
+                var obj = {
+                    time: (new Date()).getTime(),
+                    product: request.product,
+                    results: lidl.products(request.product)
+                };
+                broadcastClients(obj);
             }
         }
 
@@ -134,3 +127,25 @@ wsServer.on('request', function(request) {
     });
 
 });
+
+function sendSupplyLevelValue(value) {
+    // we want to keep history of all sent datas
+    var obj = {
+        time: (new Date()).getTime(),
+        value: value,
+        food: foods["1"].food
+    };
+    broadcastClients(obj);   
+}
+
+function broadcastClients(data) {
+
+    history.push(data);
+    history = history.slice(-100);
+    // broadcast data to all connected clients
+    var json = JSON.stringify(data);
+    for (var i=0; i < clients.length; i++) {
+        clients[i].sendUTF(json);
+    }
+    console.log("Sent push notification to all clients.\n" + json);
+}

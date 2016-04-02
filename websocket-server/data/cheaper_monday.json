@@ -1,0 +1,909 @@
+{
+	"Campaign": {
+		"containerItemType": "CAMPAIGN",
+		"hasSubContainer": false,
+		"campaignId": 12909,
+		"starttime": 1457737200000,
+		"endtime": 1458342000000,
+		"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/0/9/aa2ecd6c-7d74-42a1-891a-b2c879c1d1d6.jpg",
+		"largeImageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/0/9/dfbd68f3-b68d-406b-af7b-404c7bb7cd4c.jpg",
+		"url": "NOT_USED",
+		"hideStoreIcon": false,
+		"campaignType": "CHEAPER_MONDAY",
+		"campaignLanguageSet": {
+			"CampaignLanguageSet": {
+				"langCode": "de",
+				"title": "Billiger\nAb Montag, 14.03.",
+				"shortTitle": "Billiger",
+				"subTitle": "Ab Montag, 14.03.",
+				"groupName": "Billiger - Ab Montag, 14.03."
+			}
+		},
+		"ContainerItems": [
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 14066,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 1.59,
+					"oldPrice": 2.29,
+					"basicprice": "(1 l = 1.21)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p14066?productId=14066&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/4/0/6/6/coca-cola-4er-pack-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/4/0/6/6/coca-cola-4er-pack-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/4/0/6/6/coca-cola-4er-pack-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Coca-Cola 4er-Pack",
+							"priceText": "je 4x 1.25-l-Fl. zzgl. 1.0 Pf.",
+							"discountText": "-30%"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12909,
+							"starttime": 1457737200000,
+							"endtime": 1458342000000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/0/9/aa2ecd6c-7d74-42a1-891a-b2c879c1d1d6.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_MONDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Montag, 14.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Billiger - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=14066&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 161463,
+					"erpNumber": "000000000100146323",
+					"ean": "4000508077654",
+					"maxOrderQuantity": 12,
+					"adultsOnly": false,
+					"price": 3.33,
+					"oldPrice": 4.79,
+					"basicprice": "(1 kg = € 6.66)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p161463?productId=161463&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/6/1/4/6/3/jacobs-meisterroestung-thumbnail--6.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/6/1/4/6/3/jacobs-meisterroestung-regular--6.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/6/1/4/6/3/jacobs-meisterroestung-zoom--6.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "JACOBS Meisterröstung",
+							"subtitle": "Gemahlener Röstkaffee / 500 g",
+							"priceText": "je 500-g",
+							"discountText": "-30%"
+						}
+					},
+					"brand": {
+						"brandCode": "JACO",
+						"brandName": "JACOBS",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 56
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12729,
+							"starttime": 1396908000000,
+							"endtime": 4552149600000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/7/2/9/b73201c9-ac95-4f31-b049-338c14850eb5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Filterkaffee",
+									"shortTitle": "Filterkaffee",
+									"groupName": "Filterkaffee"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 2,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=161463&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 46957,
+					"erpNumber": "000000000100063708",
+					"ean": "4011900521102",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 3.79,
+					"oldPrice": 3.99,
+					"basicprice": "(1 l = € 5.06)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p46957?productId=46957&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/4/6/9/5/7/mumm-dry-sekt-trocken-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/4/6/9/5/7/mumm-dry-sekt-trocken-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/4/6/9/5/7/mumm-dry-sekt-trocken-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Mumm Dry Sekt, trocken",
+							"subtitle": "Herkunft: Deutschland Geschmack: trocken",
+							"priceText": "je 0.75-l",
+							"discountText": "Billiger"
+						}
+					},
+					"stock": {
+						"stockValue": 2297
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 9951,
+							"starttime": 1339970400000,
+							"endtime": 4495644000000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/0/9/9/5/1/f2cc45c9-e56c-4c6f-b502-29e13544cf47.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Champagner, Sekt & Secco",
+									"shortTitle": "Champagner, Sekt & Secco",
+									"groupName": "Champagner, Sekt & Secco"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 13,
+						"ratingStars": 4.9,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=46957&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 205357,
+					"erpNumber": "000000000100182407",
+					"ean": "4011900520105",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 3.79,
+					"oldPrice": 3.99,
+					"basicprice": "(1 l = € 5.06)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p205357?productId=205357&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/5/3/5/7/mumm-extra-dry-schaumwein-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/5/3/5/7/mumm-extra-dry-schaumwein-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/5/3/5/7/mumm-extra-dry-schaumwein-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Mumm extra dry, Schaumwein",
+							"subtitle": "Herkunft: Deutschland Geschmack: extra trocken",
+							"priceText": "je 0.75-l",
+							"discountText": "Billiger"
+						}
+					},
+					"stock": {
+						"stockValue": 624
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 9951,
+							"starttime": 1339970400000,
+							"endtime": 4495644000000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/0/9/9/5/1/f2cc45c9-e56c-4c6f-b502-29e13544cf47.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Champagner, Sekt & Secco",
+									"shortTitle": "Champagner, Sekt & Secco",
+									"groupName": "Champagner, Sekt & Secco"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=205357&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 205358,
+					"erpNumber": "000000000100182458",
+					"ean": "4011900528101",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 3.79,
+					"oldPrice": 3.99,
+					"basicprice": "(1 l = € 5.06)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p205358?productId=205358&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/5/3/5/8/mumm-rose-dry-schaumwein-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/5/3/5/8/mumm-rose-dry-schaumwein-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/5/3/5/8/mumm-rose-dry-schaumwein-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Mumm rosé dry, Schaumwein",
+							"subtitle": "Herkunft: Deutschland Geschmack: trocken",
+							"priceText": "je 0.75-l",
+							"discountText": "Billiger"
+						}
+					},
+					"stock": {
+						"stockValue": 1508
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 9951,
+							"starttime": 1339970400000,
+							"endtime": 4495644000000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/0/9/9/5/1/f2cc45c9-e56c-4c6f-b502-29e13544cf47.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Champagner, Sekt & Secco",
+									"shortTitle": "Champagner, Sekt & Secco",
+									"groupName": "Champagner, Sekt & Secco"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 4,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=205358&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 15026,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 0.99,
+					"oldPrice": 1.19,
+					"basicprice": "(100 g = € 0.40)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p15026?productId=15026&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/5/0/2/6/milbona-kaeseaufschnitt-thumbnail--3.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/5/0/2/6/milbona-kaeseaufschnitt-regular--3.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/5/0/2/6/milbona-kaeseaufschnitt-zoom--3.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Milbona Käseaufschnitt",
+							"priceText": "je 250-g-Pckg.",
+							"discountText": "-16%"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12909,
+							"starttime": 1457737200000,
+							"endtime": 1458342000000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/0/9/aa2ecd6c-7d74-42a1-891a-b2c879c1d1d6.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_MONDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Montag, 14.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Billiger - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=15026&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 36868,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 1.69,
+					"oldPrice": 1.99,
+					"basicprice": "(1 kg = € 4.23)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p36868?productId=36868&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/3/6/8/6/8/milbona-emmentaler-am-stu-ck-thumbnail--4.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/3/6/8/6/8/milbona-emmentaler-am-stu-ck-regular--4.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/3/6/8/6/8/milbona-emmentaler-am-stu-ck-zoom--4.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Milbona Emmentaler am Stück",
+							"priceText": "je 400-g-Pckg.",
+							"discountText": "-15%"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12909,
+							"starttime": 1457737200000,
+							"endtime": 1458342000000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/0/9/aa2ecd6c-7d74-42a1-891a-b2c879c1d1d6.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_MONDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Montag, 14.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Billiger - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=36868&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 16700,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 0.99,
+					"oldPrice": 1.59,
+					"basicprice": "(1 kg = € 1.98)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p16700?productId=16700&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/6/7/0/0/sanella-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/6/7/0/0/sanella-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/6/7/0/0/sanella-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Sanella",
+							"priceText": "je 500-g-Becher",
+							"discountText": "-37%"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12909,
+							"starttime": 1457737200000,
+							"endtime": 1458342000000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/0/9/aa2ecd6c-7d74-42a1-891a-b2c879c1d1d6.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_MONDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Montag, 14.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Billiger - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=16700&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 217205,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 0.69,
+					"oldPrice": 0.79,
+					"basicprice": "(1 kg = € 2.30)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p217205?productId=217205&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/7/2/0/5/goldessa-frischkaese-zubereitung-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/7/2/0/5/goldessa-frischkaese-zubereitung-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/7/2/0/5/goldessa-frischkaese-zubereitung-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Goldessa Frischkäse/ -zubereitung",
+							"priceText": "je 300-g-Pckg.",
+							"discountText": "-12%"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12909,
+							"starttime": 1457737200000,
+							"endtime": 1458342000000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/0/9/aa2ecd6c-7d74-42a1-891a-b2c879c1d1d6.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_MONDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Montag, 14.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Billiger - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=217205&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 15389,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 1.77,
+					"oldPrice": 2.55,
+					"basicprice": "(1 kg = € 3.94)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p15389?productId=15389&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/5/3/8/9/iglo-15-fischstaebchen-thumbnail--10.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/5/3/8/9/iglo-15-fischstaebchen-regular--10.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/5/3/8/9/iglo-15-fischstaebchen-zoom--10.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Iglo 15 Fischstäbchen",
+							"priceText": "je 450-g-Pckg.",
+							"discountText": "-30%"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12909,
+							"starttime": 1457737200000,
+							"endtime": 1458342000000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/0/9/aa2ecd6c-7d74-42a1-891a-b2c879c1d1d6.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_MONDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Montag, 14.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Billiger - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=15389&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213970,
+					"erpNumber": "000000000100189512",
+					"ean": "20708139",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 1.59,
+					"oldPrice": 1.99,
+					"basicprice": "(100 g = € 0.89)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213970?productId=213970&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/9/7/0/mister-choc-genuss-edle-haselnuss-praline-thumbnail--3.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/9/7/0/mister-choc-genuss-edle-haselnuss-praline-regular--3.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/9/7/0/mister-choc-genuss-edle-haselnuss-praline-zoom--3.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Mister Choc geNuss Edle Haselnuss Praline",
+							"subtitle": "Nuss-Praline mit 27 % Haselnuss umhüllt von Milchschokolade (Kakao: 25 % mindestens im Milchschokoladenanteil)",
+							"priceText": "je 180-g",
+							"discountText": "-20%"
+						}
+					},
+					"brand": {
+						"brandCode": "MISC",
+						"brandName": "MISTER CHOC",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/5/0/2/4/934fad22-446c-470e-905d-84b6734860de--1.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 19
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16090,
+							"starttime": 1451257200000,
+							"endtime": 4606930800000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/0/9/0/37f67412-b5ad-428d-9c9e-255d1e44d491.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pralinen",
+									"shortTitle": "Pralinen",
+									"groupName": "Pralinen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213970&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213968,
+					"erpNumber": "000000000100189509",
+					"ean": "20279851",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 2.22,
+					"oldPrice": 2.79,
+					"basicprice": "(100 g = € 0.89)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213968?productId=213968&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/9/6/8/j-d-gross-feine-braende-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/9/6/8/j-d-gross-feine-braende-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/9/6/8/j-d-gross-feine-braende-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "J.D. GROSS Feine Brände",
+							"subtitle": "Flüssig gefüllte Alkoholpralinen mit hellem und dunklem Vollmilchschokoladenüberzug und Haselnüssen",
+							"priceText": "je 250-g",
+							"discountText": "-20%"
+						}
+					},
+					"brand": {
+						"brandCode": "JDGS",
+						"brandName": "J.D. GROSS",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 10
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16090,
+							"starttime": 1451257200000,
+							"endtime": 4606930800000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/0/9/0/37f67412-b5ad-428d-9c9e-255d1e44d491.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Pralinen",
+									"shortTitle": "Pralinen",
+									"groupName": "Pralinen"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213968&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 22652,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 0.59,
+					"oldPrice": 0.89,
+					"basicprice": "(100 g = 1.48/1.56)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p22652?productId=22652&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/2/2/6/5/2/maggi-fix-frisch-thumbnail--22.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/2/2/6/5/2/maggi-fix-frisch-regular--22.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/2/2/6/5/2/maggi-fix-frisch-zoom--22.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Maggi Fix & Frisch",
+							"priceText": "je 40/38-g-Pckg.",
+							"discountText": "-33%"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12909,
+							"starttime": 1457737200000,
+							"endtime": 1458342000000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/0/9/aa2ecd6c-7d74-42a1-891a-b2c879c1d1d6.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_MONDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Montag, 14.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Billiger - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=22652&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			}
+		]
+	}
+}

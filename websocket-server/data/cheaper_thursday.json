@@ -1,0 +1,1347 @@
+{
+	"Campaign": {
+		"containerItemType": "CAMPAIGN",
+		"hasSubContainer": false,
+		"campaignId": 12934,
+		"starttime": 1457737200000,
+		"endtime": 1458428400000,
+		"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/4/9d496805-eab6-4b87-a1bb-fdd6d3aeea9d.jpg",
+		"largeImageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/4/0737f584-a1d4-4d11-80c2-da9437bb7a2d.jpg",
+		"url": "NOT_USED",
+		"hideStoreIcon": false,
+		"campaignType": "CHEAPER_THURSDAY",
+		"campaignLanguageSet": {
+			"CampaignLanguageSet": {
+				"langCode": "de",
+				"title": "Billiger\nAb Donnerstag, 17.03.",
+				"shortTitle": "Billiger",
+				"subTitle": "Ab Donnerstag, 17.03.",
+				"groupName": "Billiger - Ab Donnerstag, 17.03."
+			}
+		},
+		"ContainerItems": [
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 217299,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 3.99,
+					"basicprice": "(1 kg = € 13.30)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p217299?productId=217299&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/7/2/9/9/deluxe-regenbogen-forellenfilet-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/7/2/9/9/deluxe-regenbogen-forellenfilet-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/7/2/9/9/deluxe-regenbogen-forellenfilet-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Deluxe Regenbogen- Forellenfilet",
+							"priceText": "je 300-g-Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12934,
+							"starttime": 1457737200000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/4/9d496805-eab6-4b87-a1bb-fdd6d3aeea9d.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_THURSDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Donnerstag, 17.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Donnerstag, 17.03.",
+									"groupName": "Billiger - Ab Donnerstag, 17.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=217299&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 217268,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 3.99,
+					"basicprice": "(1 kg = € 7.98)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p217268?productId=217268&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/7/2/6/8/lavazza-kaffee-gemahlen-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/7/2/6/8/lavazza-kaffee-gemahlen-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/7/2/6/8/lavazza-kaffee-gemahlen-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Lavazza Kaffee Gemahlen",
+							"priceText": "je 500-g-Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12934,
+							"starttime": 1457737200000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/4/9d496805-eab6-4b87-a1bb-fdd6d3aeea9d.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_THURSDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Donnerstag, 17.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Donnerstag, 17.03.",
+									"groupName": "Billiger - Ab Donnerstag, 17.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=217268&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 217269,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 9.99,
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p217269?productId=217269&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/7/2/6/9/lavazza-caffe-crema-ganze-bohnen-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/7/2/6/9/lavazza-caffe-crema-ganze-bohnen-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/7/2/6/9/lavazza-caffe-crema-ganze-bohnen-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Lavazza Caffè Crema Ganze Bohnen",
+							"priceText": "je 1-kg-Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12934,
+							"starttime": 1457737200000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/4/9d496805-eab6-4b87-a1bb-fdd6d3aeea9d.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_THURSDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Donnerstag, 17.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Donnerstag, 17.03.",
+									"groupName": "Billiger - Ab Donnerstag, 17.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=217269&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 174472,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 3.79,
+					"oldPrice": 4.79,
+					"basicprice": "(100 g = € 3.65)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p174472?productId=174472&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/4/4/7/2/jacobs-tassimo-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/4/4/7/2/jacobs-tassimo-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/4/4/7/2/jacobs-tassimo-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Jacobs Tassimo",
+							"priceText": "je 104-g-Pckg.",
+							"discountText": "-20%"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12934,
+							"starttime": 1457737200000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/4/9d496805-eab6-4b87-a1bb-fdd6d3aeea9d.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_THURSDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Donnerstag, 17.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Donnerstag, 17.03.",
+									"groupName": "Billiger - Ab Donnerstag, 17.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=174472&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 206050,
+					"erpNumber": "000000000100182900",
+					"ean": "7622210462619",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 3.79,
+					"oldPrice": 4.99,
+					"basicprice": "(1 kg = € 14.36)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p206050?productId=206050&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/6/0/5/0/jacobs-tassimo-latte-macchiato-classico-kaffeekapseln-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/6/0/5/0/jacobs-tassimo-latte-macchiato-classico-kaffeekapseln-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/6/0/5/0/jacobs-tassimo-latte-macchiato-classico-kaffeekapseln-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "JACOBS Tassimo Latte Macchiato classico Kaffeekapseln",
+							"subtitle": "Gemahlener Röstkaffee und ultrafiltriertes Vollmilchkonzentrat mit Zucker / 264 g (8 x 7,0 g, 8 x 26 g)",
+							"priceText": "je 0.264-kg",
+							"discountText": "-24%"
+						}
+					},
+					"brand": {
+						"brandCode": "JACO",
+						"brandName": "JACOBS",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 1176
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12755,
+							"starttime": 1396821600000,
+							"endtime": 4552495200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/7/5/5/5093141f-c811-4000-a888-c16bac0893ff.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Kaffee-Kapseln",
+									"shortTitle": "Kaffee-Kapseln",
+									"groupName": "Kaffee-Kapseln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 8,
+						"ratingStars": 3.9,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=206050&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 172491,
+					"erpNumber": "000000000100155295",
+					"ean": "7622210010827",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 3.79,
+					"oldPrice": 4.99,
+					"basicprice": "(100 g = € 2.86)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p172491?productId=172491&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/2/4/9/1/jacobs-tassimo-caffe-crema-classico-xl-kaffeekapseln-thumbnail--6.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/2/4/9/1/jacobs-tassimo-caffe-crema-classico-xl-kaffeekapseln-regular--6.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/2/4/9/1/jacobs-tassimo-caffe-crema-classico-xl-kaffeekapseln-zoom--6.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "JACOBS Tassimo Caffè Crema classico XL Kaffeekapseln",
+							"subtitle": "Gemahlener Röstkaffee in Kaffeekapseln / 132,8 g (16 x 8,3 g)",
+							"priceText": "je 132.8-g",
+							"discountText": "-24%"
+						}
+					},
+					"brand": {
+						"brandCode": "JACO",
+						"brandName": "JACOBS",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 585
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12755,
+							"starttime": 1396821600000,
+							"endtime": 4552495200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/7/5/5/5093141f-c811-4000-a888-c16bac0893ff.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Kaffee-Kapseln",
+									"shortTitle": "Kaffee-Kapseln",
+									"groupName": "Kaffee-Kapseln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 18,
+						"ratingStars": 4.6,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=172491&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 174502,
+					"maxOrderQuantity": 5,
+					"adultsOnly": true,
+					"price": 4.44,
+					"basicprice": "(1 l = € 6.35)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p174502?productId=174502&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/4/5/0/2/berentzen-fruchtige-likoer-thumbnail--4.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/4/5/0/2/berentzen-fruchtige-likoer-regular--4.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/4/5/0/2/berentzen-fruchtige-likoer-zoom--4.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Berentzen Fruchtige Likör",
+							"priceText": "je 0.7-l-Fl."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12934,
+							"starttime": 1457737200000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/4/9d496805-eab6-4b87-a1bb-fdd6d3aeea9d.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_THURSDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Donnerstag, 17.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Donnerstag, 17.03.",
+									"groupName": "Billiger - Ab Donnerstag, 17.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=174502&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 15415,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 0.59,
+					"oldPrice": 0.89,
+					"basicprice": "(1 l = € 0.40)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p15415?productId=15415&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/5/4/1/5/schwip-schwap-thumbnail--13.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/5/4/1/5/schwip-schwap-regular--13.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/5/4/1/5/schwip-schwap-zoom--13.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Schwip Schwap",
+							"priceText": "je 1.5-l-Fl. zzgl. 0.25 Pf.",
+							"discountText": "-33%"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12934,
+							"starttime": 1457737200000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/4/9d496805-eab6-4b87-a1bb-fdd6d3aeea9d.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_THURSDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Donnerstag, 17.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Donnerstag, 17.03.",
+									"groupName": "Billiger - Ab Donnerstag, 17.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=15415&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 178425,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 1.99,
+					"oldPrice": 2.49,
+					"basicprice": "(100 g = € 1.00)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p178425?productId=178425&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/8/4/2/5/saint-albray-chaumes-saint-agur-thumbnail--30.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/8/4/2/5/saint-albray-chaumes-saint-agur-regular--30.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/8/4/2/5/saint-albray-chaumes-saint-agur-zoom--30.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Saint Albray/Chaumes/Saint Agur",
+							"priceText": "je 200-g-Pckg.",
+							"discountText": "-20%"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12934,
+							"starttime": 1457737200000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/4/9d496805-eab6-4b87-a1bb-fdd6d3aeea9d.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_THURSDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Donnerstag, 17.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Donnerstag, 17.03.",
+									"groupName": "Billiger - Ab Donnerstag, 17.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=178425&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 10601,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 0.88,
+					"oldPrice": 1.09,
+					"basicprice": "(100 g = € 0.44)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p10601?productId=10601&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/0/6/0/1/gebirgsjaeger-delikatess-kochhinterschinken-thumbnail--5.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/0/6/0/1/gebirgsjaeger-delikatess-kochhinterschinken-regular--5.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/0/6/0/1/gebirgsjaeger-delikatess-kochhinterschinken-zoom--5.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Gebirgsjäger Delikatess Kochhinterschinken",
+							"priceText": "je 200-g-Pckg.",
+							"discountText": "-19%"
+						}
+					},
+					"brand": {
+						"brandCode": "GEBR",
+						"brandName": "Gebirgsjäger",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/2/1/0/1/1810c1be-316e-4a97-8128-cf736bdc7803.jpg",
+						"ownBrand": false
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12934,
+							"starttime": 1457737200000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/4/9d496805-eab6-4b87-a1bb-fdd6d3aeea9d.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_THURSDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Donnerstag, 17.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Donnerstag, 17.03.",
+									"groupName": "Billiger - Ab Donnerstag, 17.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=10601&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 208205,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 3.99,
+					"basicprice": "(100 g = € 2.00)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p208205?productId=208205&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/8/2/0/5/reber-mozart-kugeln-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/8/2/0/5/reber-mozart-kugeln-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/8/2/0/5/reber-mozart-kugeln-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Reber Mozart Kugeln",
+							"priceText": "je 200-g-Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12934,
+							"starttime": 1457737200000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/4/9d496805-eab6-4b87-a1bb-fdd6d3aeea9d.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_THURSDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Donnerstag, 17.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Donnerstag, 17.03.",
+									"groupName": "Billiger - Ab Donnerstag, 17.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=208205&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 40813,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 1.49,
+					"oldPrice": 2.29,
+					"basicprice": "(1 kg = € 2.71)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p40813?productId=40813&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/4/0/8/1/3/nestle-nesquik-kakaogetraenkepulver-thumbnail--9.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/4/0/8/1/3/nestle-nesquik-kakaogetraenkepulver-regular--9.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/4/0/8/1/3/nestle-nesquik-kakaogetraenkepulver-zoom--9.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Nestlé Nesquik Kakaogetränkepulver",
+							"priceText": "je 550-g-Pckg.",
+							"discountText": "-34%"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12934,
+							"starttime": 1457737200000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/4/9d496805-eab6-4b87-a1bb-fdd6d3aeea9d.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_THURSDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Donnerstag, 17.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Donnerstag, 17.03.",
+									"groupName": "Billiger - Ab Donnerstag, 17.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=40813&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 205947,
+					"erpNumber": "000000000100182811",
+					"ean": "4000339057825",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 1.29,
+					"oldPrice": 1.99,
+					"basicprice": "(1 l = € 2.58)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p205947?productId=205947&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/5/9/4/7/miracel-whip-classic-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/5/9/4/7/miracel-whip-classic-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/5/9/4/7/miracel-whip-classic-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Miracel Whip Classic",
+							"subtitle": "Salatcreme",
+							"priceText": "je 500-ml",
+							"discountText": "-35%"
+						}
+					},
+					"brand": {
+						"brandCode": "MIRA",
+						"brandName": "Miracel Whip",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 133
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15631,
+							"starttime": 1444946400000,
+							"endtime": 4600620000000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/6/3/1/c84bb123-b262-46c0-b565-63a27a0b0051.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Vorratsbox\nLidl",
+									"shortTitle": "Vorratsbox",
+									"subTitle": "Lidl",
+									"groupName": "Vorratsbox - Lidl"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=205947&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 205950,
+					"erpNumber": "000000000100182815",
+					"ean": "4000339457823",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 1.29,
+					"oldPrice": 1.99,
+					"basicprice": "(1 l = € 2.58)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p205950?productId=205950&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/5/9/5/0/miracel-whip-balance-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/5/9/5/0/miracel-whip-balance-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/5/9/5/0/miracel-whip-balance-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Miracel Whip Balance",
+							"subtitle": "Salatcreme 10 % Fett",
+							"priceText": "je 500-ml",
+							"discountText": "-35%"
+						}
+					},
+					"brand": {
+						"brandCode": "MIRA",
+						"brandName": "Miracel Whip",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 82
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15666,
+							"starttime": 1445292000000,
+							"endtime": 4600965600000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/6/6/6/dd64cf75-679f-4ceb-9736-e9a85ef1893e.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Mayonnaise & Salatcreme",
+									"shortTitle": "Mayonnaise & Salatcreme",
+									"groupName": "Mayonnaise & Salatcreme"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=205950&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 205953,
+					"erpNumber": "000000000100182818",
+					"ean": "7622300103569",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 1.29,
+					"oldPrice": 1.99,
+					"basicprice": "(1 l = € 2.58)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p205953?productId=205953&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/5/9/5/3/miracel-whip-so-leicht-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/5/9/5/3/miracel-whip-so-leicht-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/5/9/5/3/miracel-whip-so-leicht-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Miracel Whip So leicht",
+							"subtitle": "Salatcreme 4,9 % Fett",
+							"priceText": "je 500-ml",
+							"discountText": "-35%"
+						}
+					},
+					"brand": {
+						"brandCode": "MIRA",
+						"brandName": "Miracel Whip",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 0
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15666,
+							"starttime": 1445292000000,
+							"endtime": 4600965600000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/6/6/6/dd64cf75-679f-4ceb-9736-e9a85ef1893e.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Mayonnaise & Salatcreme",
+									"shortTitle": "Mayonnaise & Salatcreme",
+									"groupName": "Mayonnaise & Salatcreme"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=205953&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 26638,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 2.49,
+					"basicprice": "(1 l = 1.25/3.32/2.49)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p26638?productId=26638&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/2/6/6/3/8/sagrotan-reiniger-thumbnail--4.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/2/6/6/3/8/sagrotan-reiniger-regular--4.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/2/6/6/3/8/sagrotan-reiniger-zoom--4.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Sagrotan Reiniger",
+							"priceText": "je 2-l-/750-ml-/1-l-Fl."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12934,
+							"starttime": 1457737200000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/4/9d496805-eab6-4b87-a1bb-fdd6d3aeea9d.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_THURSDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Donnerstag, 17.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Donnerstag, 17.03.",
+									"groupName": "Billiger - Ab Donnerstag, 17.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=26638&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 16672,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 8.88,
+					"basicprice": "(1 kg = 4.91/6.17)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p16672?productId=16672&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/6/6/7/2/finish-powerball-tabs-thumbnail--4.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/6/6/7/2/finish-powerball-tabs-regular--4.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/6/6/7/2/finish-powerball-tabs-zoom--4.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Finish Powerball-Tabs",
+							"subtitle": "100 Tabs/70 Tabs",
+							"priceText": "je 1810/1441-g-Packung"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12934,
+							"starttime": 1457737200000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/4/9d496805-eab6-4b87-a1bb-fdd6d3aeea9d.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_THURSDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Donnerstag, 17.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Donnerstag, 17.03.",
+									"groupName": "Billiger - Ab Donnerstag, 17.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=16672&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 185257,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 2.99,
+					"basicprice": "(1 l = 2.60/5.98)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p185257?productId=185257&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/8/5/2/5/7/finish-klarspu-ler-maschinenpfleger-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/8/5/2/5/7/finish-klarspu-ler-maschinenpfleger-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/8/5/2/5/7/finish-klarspu-ler-maschinenpfleger-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Finish Klarspüler/ Maschinenpfleger",
+							"priceText": "je 1150-ml-Fl./2x 250-ml-Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12934,
+							"starttime": 1457737200000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/4/9d496805-eab6-4b87-a1bb-fdd6d3aeea9d.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_THURSDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Donnerstag, 17.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Donnerstag, 17.03.",
+									"groupName": "Billiger - Ab Donnerstag, 17.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=185257&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 191583,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 14.99,
+					"basicprice": "(1 kg = 2.31/1 l = 2.31)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p191583?productId=191583&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/9/1/5/8/3/ariel-pulver-gel-100-waeschen-thumbnail--3.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/9/1/5/8/3/ariel-pulver-gel-100-waeschen-regular--3.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/9/1/5/8/3/ariel-pulver-gel-100-waeschen-zoom--3.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Ariel Pulver/Gel 100 Wäschen",
+							"subtitle": "1 WL = 0.15",
+							"priceText": "je 6.5-kg-Pckg./2x 3.25-l-Fl."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12934,
+							"starttime": 1457737200000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/4/9d496805-eab6-4b87-a1bb-fdd6d3aeea9d.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_THURSDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Donnerstag, 17.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Donnerstag, 17.03.",
+									"groupName": "Billiger - Ab Donnerstag, 17.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=191583&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 18446,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 1.95,
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p18446?productId=18446&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/8/4/4/6/floralys-ku-chenrolle-klecks-ex-thumbnail--6.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/8/4/4/6/floralys-ku-chenrolle-klecks-ex-regular--6.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/8/4/4/6/floralys-ku-chenrolle-klecks-ex-zoom--6.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Floralys Küchenrolle Klecks-Ex",
+							"priceText": "je 3x 80-Blatt"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12934,
+							"starttime": 1457737200000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/4/9d496805-eab6-4b87-a1bb-fdd6d3aeea9d.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "CHEAPER_THURSDAY",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Billiger\nAb Donnerstag, 17.03.",
+									"shortTitle": "Billiger",
+									"subTitle": "Ab Donnerstag, 17.03.",
+									"groupName": "Billiger - Ab Donnerstag, 17.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=18446&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			}
+		]
+	}
+}

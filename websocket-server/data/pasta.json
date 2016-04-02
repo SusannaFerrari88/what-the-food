@@ -1,0 +1,1576 @@
+{
+	"Campaign": {
+		"containerItemType": "CAMPAIGN",
+		"hasSubContainer": false,
+		"campaignId": 15705,
+		"starttime": 1445986800000,
+		"endtime": 4601660400000,
+		"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+		"url": "NOT_USED",
+		"hideStoreIcon": true,
+		"campaignType": "PERMANENT",
+		"campaignLanguageSet": {
+			"CampaignLanguageSet": {
+				"langCode": "de",
+				"title": "Nudeln",
+				"shortTitle": "Nudeln",
+				"groupName": "Nudeln"
+			}
+		},
+		"ContainerItems": [
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 214057,
+					"erpNumber": "000000000100189623",
+					"ean": "20119584",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 0.79,
+					"basicprice": "(100 g = € 0.32)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p214057?productId=214057&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/4/0/5/7/combino-tortelloni-ricotta-spinat-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/4/0/5/7/combino-tortelloni-ricotta-spinat-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/4/0/5/7/combino-tortelloni-ricotta-spinat-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Tortelloni Ricotta Spinat",
+							"subtitle": "Gefüllte Teigtaschen mit Ricotta-Frischkäse und Spinat, pasteurisiert",
+							"priceText": "je 250-g"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 27
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=214057&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 214056,
+					"erpNumber": "000000000100189622",
+					"ean": "20119560",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 0.79,
+					"basicprice": "(100 g = € 0.32)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p214056?productId=214056&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/4/0/5/6/combino-tortelloni-schinken-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/4/0/5/6/combino-tortelloni-schinken-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/4/0/5/6/combino-tortelloni-schinken-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Tortelloni Schinken",
+							"subtitle": "Gefüllte Teigtaschen mit Mortadella und Rohschinken, pasteurisiert",
+							"priceText": "je 250-g"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 78
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=214056&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 214036,
+					"erpNumber": "000000000100189601",
+					"ean": "20656744",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 0.69,
+					"basicprice": "(1 kg = € 1.38)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p214036?productId=214036&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/4/0/3/6/combino-bandnudeln-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/4/0/3/6/combino-bandnudeln-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/4/0/3/6/combino-bandnudeln-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Bandnudeln",
+							"subtitle": "Eier-Teigwaren",
+							"priceText": "je 0.5-kg"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 503
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=214036&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213862,
+					"erpNumber": "000000000100189347",
+					"ean": "20317188",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 0.79,
+					"basicprice": "(100 g = € 0.32)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213862?productId=213862&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/8/6/2/combino-ravioli-mit-pilzfuellung-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/8/6/2/combino-ravioli-mit-pilzfuellung-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/8/6/2/combino-ravioli-mit-pilzfuellung-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Ravioli mit Pilzfüllung",
+							"subtitle": "Gefüllte Teigtaschen mit Pilzen, pasteurisiert",
+							"priceText": "je 250-g"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 8
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213862&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 211253,
+					"erpNumber": "000000000100187236",
+					"ean": "20401108",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 1.49,
+					"basicprice": "(1 kg = € 2.98)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p211253?productId=211253&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/1/2/5/3/combino-glutenfreie-nudeln-penne-mais-und-reis-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/1/2/5/3/combino-glutenfreie-nudeln-penne-mais-und-reis-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/1/2/5/3/combino-glutenfreie-nudeln-penne-mais-und-reis-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Glutenfreie Nudeln Penne Mais und Reis",
+							"subtitle": "Glutenfreie Teigwaren.",
+							"priceText": "je 0.5-kg"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 0
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=211253&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 211252,
+					"erpNumber": "000000000100187235",
+					"ean": "20284244",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 1.49,
+					"basicprice": "(1 kg = € 2.98)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p211252?productId=211252&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/1/2/5/2/combino-glutenfreie-nudeln-fusilli-mais-und-reis-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/1/2/5/2/combino-glutenfreie-nudeln-fusilli-mais-und-reis-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/1/2/5/2/combino-glutenfreie-nudeln-fusilli-mais-und-reis-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Glutenfreie Nudeln Fusilli Mais und Reis",
+							"subtitle": "Glutenfreie Teigwaren.",
+							"priceText": "je 0.5-kg"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 0
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=211252&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 211251,
+					"erpNumber": "000000000100187234",
+					"ean": "20284251",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 1.49,
+					"basicprice": "(1 kg = € 2.98)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p211251?productId=211251&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/1/2/5/1/combino-spaghetti-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/1/2/5/1/combino-spaghetti-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/1/2/5/1/combino-spaghetti-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Spaghetti",
+							"subtitle": "Gutenfreie Teigwaren",
+							"priceText": "je 0.5-kg"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 136
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=211251&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 211245,
+					"erpNumber": "000000000100187228",
+					"ean": "20411978",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 1.29,
+					"basicprice": "(1 kg = € 2.58)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p211245?productId=211245&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/1/2/4/5/combino-lasagne-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/1/2/4/5/combino-lasagne-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/1/2/4/5/combino-lasagne-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Lasagne",
+							"subtitle": "Teigwaren aus Hartweizengrieß",
+							"priceText": "je 0.5-kg"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 183
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=211245&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 211190,
+					"erpNumber": "000000000100187169",
+					"ean": "20656775",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 0.69,
+					"basicprice": "(1 kg = € 1.38)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p211190?productId=211190&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/1/1/9/0/combino-frischei-nudeln-maccronelli-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/1/1/9/0/combino-frischei-nudeln-maccronelli-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/1/1/9/0/combino-frischei-nudeln-maccronelli-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Frischei Nudeln Maccronelli",
+							"subtitle": "Eier-Teigwaren",
+							"priceText": "je 0.5-kg"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 320
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 2,
+						"ratingStars": 4.5,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=211190&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 211189,
+					"erpNumber": "000000000100187168",
+					"ean": "20656751",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 0.69,
+					"basicprice": "(1 kg = € 1.38)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p211189?productId=211189&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/1/1/8/9/combino-frischei-nudeln-korkenzieher-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/1/1/8/9/combino-frischei-nudeln-korkenzieher-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/1/1/8/9/combino-frischei-nudeln-korkenzieher-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Frischei Nudeln Korkenzieher",
+							"subtitle": "Eier-Teigwaren.",
+							"priceText": "je 0.5-kg"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 136
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 2,
+						"ratingStars": 4.5,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=211189&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 211264,
+					"erpNumber": "000000000100187253",
+					"ean": "20003517",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 0.79,
+					"basicprice": "(1 kg = € 1.58)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p211264?productId=211264&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/1/2/6/4/combino-spaghetti-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/1/2/6/4/combino-spaghetti-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/1/2/6/4/combino-spaghetti-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Spaghetti",
+							"subtitle": "Eier-Nudeln",
+							"priceText": "je 0.5-kg"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 113
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=211264&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 211141,
+					"erpNumber": "000000000100187149",
+					"ean": "20035723",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 1.19,
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p211141?productId=211141&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/1/1/4/1/combino-tortiglioni-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/1/1/4/1/combino-tortiglioni-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/1/1/4/1/combino-tortiglioni-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Tortiglioni",
+							"subtitle": "Teigwaren aus Hartweizengrieß",
+							"priceText": "​"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 175
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=211141&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 211140,
+					"erpNumber": "000000000100187148",
+					"ean": "20035716",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 1.19,
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p211140?productId=211140&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/1/1/4/0/combino-farfalle-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/1/1/4/0/combino-farfalle-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/1/1/4/0/combino-farfalle-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Farfalle",
+							"subtitle": "Teigwaren aus Hartweizengrieß",
+							"priceText": "​"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 144
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=211140&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 211092,
+					"erpNumber": "000000000100187086",
+					"ean": "20114992",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 0.85,
+					"basicprice": "(1 kg = € 1.70)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p211092?productId=211092&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/1/0/9/2/combino-bio-spaghetti-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/1/0/9/2/combino-bio-spaghetti-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/1/0/9/2/combino-bio-spaghetti-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Bio Spaghetti",
+							"subtitle": "Bio-Teigwaren aus Hartweizengrieß",
+							"priceText": "je 0.5-kg"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 34
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=211092&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 211036,
+					"erpNumber": "000000000100187021",
+					"ean": "20144784",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 0.85,
+					"basicprice": "(1 kg = € 1.70)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p211036?productId=211036&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/1/0/3/6/combino-bio-farfalle-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/1/0/3/6/combino-bio-farfalle-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/1/0/3/6/combino-bio-farfalle-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Bio Farfalle",
+							"priceText": "je 0.5-kg"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 56
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=211036&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 180475,
+					"erpNumber": "000000000100187020",
+					"ean": "20115005",
+					"maxOrderQuantity": 30,
+					"adultsOnly": false,
+					"price": 0.85,
+					"basicprice": "(1 kg = € 1.70)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p180475?productId=180475&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/8/0/4/7/5/combino-bio-fusilli-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/8/0/4/7/5/combino-bio-fusilli-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/8/0/4/7/5/combino-bio-fusilli-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Bio Fusilli",
+							"subtitle": "Bio-Teigwaren aus Hartweizengrieß.",
+							"priceText": "je 0.5-kg"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 142
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=180475&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 113081,
+					"erpNumber": "000000000100180297",
+					"ean": "20261344",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 1.89,
+					"basicprice": "(1 kg = € 3.57)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p113081?productId=113081&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/1/3/0/8/1/deluxe-capunti-alla-puttanesca-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/1/3/0/8/1/deluxe-capunti-alla-puttanesca-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/1/3/0/8/1/deluxe-capunti-alla-puttanesca-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Capunti alla Puttanesca",
+							"subtitle": "Teigwaren aus Hartweizengrieß mit 5,7% Würzmischung",
+							"priceText": "je 530-g"
+						}
+					},
+					"brand": {
+						"brandCode": "DELE",
+						"brandName": "DELUXE",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/2/0/6/3/d3452067-6e64-4c9e-94a1-4b0a3f12847a.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 156
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 2,
+						"ratingStars": 4.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=113081&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 188222,
+					"erpNumber": "000000000100180296",
+					"ean": "20200183",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 1.39,
+					"basicprice": "(1 kg = € 2.78)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p188222?productId=188222&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/8/8/2/2/2/deluxe-gewalzte-bandnudeln-baerlauch-thumbnail--3.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/8/8/2/2/2/deluxe-gewalzte-bandnudeln-baerlauch-regular--3.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/8/8/2/2/2/deluxe-gewalzte-bandnudeln-baerlauch-zoom--3.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Gewalzte Bandnudeln Bärlauch",
+							"subtitle": "Teigwaren mit Bärlauch",
+							"priceText": "je 500-g"
+						}
+					},
+					"brand": {
+						"brandCode": "DELE",
+						"brandName": "DELUXE",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/2/0/6/3/d3452067-6e64-4c9e-94a1-4b0a3f12847a.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 6459
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16435,
+							"starttime": 1455663600000,
+							"endtime": 4611337200000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/4/3/5/de15faec-7bdd-4107-b118-10b9f0544b87.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe Pakete\nDeluxe",
+									"shortTitle": "Deluxe Pakete",
+									"subTitle": "Deluxe",
+									"groupName": "Deluxe Pakete - Deluxe"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 4,
+						"ratingStars": 4.5,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=188222&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 205925,
+					"erpNumber": "000000000100182790",
+					"ean": "20003470",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 0.49,
+					"basicprice": "(1 kg = € 0.98)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p205925?productId=205925&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/5/9/2/5/combino-fusilli-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/5/9/2/5/combino-fusilli-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/5/9/2/5/combino-fusilli-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Fusilli",
+							"subtitle": "Teigwaren aus Hartweizengrieß",
+							"priceText": "je 500-g"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 798
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 13,
+						"ratingStars": 4.6,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=205925&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 205926,
+					"erpNumber": "000000000100182792",
+					"ean": "20012151",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 0.49,
+					"basicprice": "(1 kg = € 0.98)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p205926?productId=205926&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/5/9/2/6/combino-penne-rigate-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/5/9/2/6/combino-penne-rigate-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/5/9/2/6/combino-penne-rigate-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Penne Rigate",
+							"subtitle": "Teigwaren aus Hartweizengrieß",
+							"priceText": "je 500-g"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 1060
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 8,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=205926&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 205999,
+					"erpNumber": "000000000100182867",
+					"ean": "20003463",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 0.49,
+					"basicprice": "(1 kg = € 0.98)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p205999?productId=205999&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/5/9/9/9/combino-spaghetti-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/5/9/9/9/combino-spaghetti-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/5/9/9/9/combino-spaghetti-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "COMBINO Spaghetti",
+							"subtitle": "Teigwaren aus Hartweizengrieß",
+							"priceText": "je 500-g"
+						}
+					},
+					"brand": {
+						"brandCode": "COMO",
+						"brandName": "COMBINO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/9/2/47dc50c2-c65e-41dd-9c1f-ed69450daff0.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 858
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 15705,
+							"starttime": 1445986800000,
+							"endtime": 4601660400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/5/7/0/5/e9984b2c-6e8f-42f2-9ed8-482c72bca21f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": true,
+							"campaignType": "PERMANENT",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Nudeln",
+									"shortTitle": "Nudeln",
+									"groupName": "Nudeln"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 14,
+						"ratingStars": 4.8,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=205999&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			}
+		]
+	}
+}

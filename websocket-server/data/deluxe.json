@@ -1,0 +1,3060 @@
+{
+	"Campaign": {
+		"containerItemType": "CAMPAIGN",
+		"hasSubContainer": false,
+		"campaignId": 16536,
+		"starttime": 1457132400000,
+		"endtime": 1458428400000,
+		"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+		"largeImageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/76c038b9-97ea-4392-a04d-6f22ffb4ad2b.jpg",
+		"largeImageOverlayUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/f90ae55c-7fa7-4d7c-b1e6-d0e72e997ee4.png",
+		"url": "NOT_USED",
+		"hideStoreIcon": false,
+		"campaignType": "REGULAR",
+		"campaignLanguageSet": {
+			"CampaignLanguageSet": {
+				"langCode": "de",
+				"title": "Deluxe\nAb Montag, 14.03.",
+				"shortTitle": "Deluxe",
+				"subTitle": "Ab Montag, 14.03.",
+				"groupName": "Deluxe - Ab Montag, 14.03."
+			}
+		},
+		"ContainerItems": [
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 187809,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 10.0,
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p187809?productId=187809&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/8/7/8/0/9/deluxe-neuseelaendische-lammkeule-thumbnail--6.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/8/7/8/0/9/deluxe-neuseelaendische-lammkeule-regular--6.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/8/7/8/0/9/deluxe-neuseelaendische-lammkeule-zoom--6.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Neuseeländische Lammkeule",
+							"priceText": "je kg-Preis"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=187809&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 216516,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 8.74,
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p216516?productId=216516&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/6/5/1/6/deluxe-neuseelaendische-lammhaxe-thumbnail--7.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/6/5/1/6/deluxe-neuseelaendische-lammhaxe-regular--7.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/6/5/1/6/deluxe-neuseelaendische-lammhaxe-zoom--7.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Neuseeländische Lammhaxe",
+							"priceText": "je kg-Preis"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=216516&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 216518,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 15.99,
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p216518?productId=216518&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/6/5/1/8/deluxe-su-damerikanisches-entrecote-am-stu-ck-thumbnail--7.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/6/5/1/8/deluxe-su-damerikanisches-entrecote-am-stu-ck-regular--7.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/6/5/1/8/deluxe-su-damerikanisches-entrecote-am-stu-ck-zoom--7.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Südamerikanisches Entrecôte am Stück",
+							"priceText": "je kg-Preis"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=216518&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 59206,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 7.99,
+					"basicprice": "(1 kg = € 24.97)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p59206?productId=59206&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/5/9/2/0/6/deluxe-schottischer-raeucherlachs-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/5/9/2/0/6/deluxe-schottischer-raeucherlachs-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/5/9/2/0/6/deluxe-schottischer-raeucherlachs-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Schottischer Räucherlachs",
+							"priceText": "je 320-g-Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=59206&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 187793,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 4.59,
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p187793?productId=187793&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/8/7/7/9/3/deluxe-garnelenring-thumbnail--5.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/8/7/7/9/3/deluxe-garnelenring-regular--5.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/8/7/7/9/3/deluxe-garnelenring-zoom--5.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Garnelenring",
+							"priceText": "je Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=187793&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 208769,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 3.99,
+					"basicprice": "(100 g = € 2.50)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p208769?productId=208769&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/8/7/6/9/deluxe-8-lachshaeppchen-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/8/7/6/9/deluxe-8-lachshaeppchen-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/8/7/6/9/deluxe-8-lachshaeppchen-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE 8 Lachshäppchen",
+							"priceText": "je 160-g-Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=208769&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 216519,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 2.99,
+					"basicprice": "(100 g = € 1.76)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p216519?productId=216519&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/6/5/1/9/deluxe-16-cocktail-haeppchen-thumbnail--8.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/6/5/1/9/deluxe-16-cocktail-haeppchen-regular--8.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/6/5/1/9/deluxe-16-cocktail-haeppchen-zoom--8.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE 16 Cocktail-Häppchen",
+							"priceText": "je 170-g-Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=216519&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 208766,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 4.49,
+					"basicprice": "(100 g = € 1.96)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p208766?productId=208766&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/8/7/6/6/deluxe-sardellenfilets-in-olivenoel-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/8/7/6/6/deluxe-sardellenfilets-in-olivenoel-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/8/7/6/6/deluxe-sardellenfilets-in-olivenoel-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Sardellenfilets in Olivenöl",
+							"priceText": "je 230-g-Glas"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=208766&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 7661,
+					"erpNumber": "000000000100007648",
+					"ean": "20242930",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 6.99,
+					"basicprice": "(1 l = € 9.32)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p7661?productId=7661&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/0/7/6/6/1/viajero-tenuta-pule-valpolicella-ripasso-classico-superiore-doc-rotwein-2013-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/0/7/6/6/1/viajero-tenuta-pule-valpolicella-ripasso-classico-superiore-doc-rotwein-2013-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/0/7/6/6/1/viajero-tenuta-pule-valpolicella-ripasso-classico-superiore-doc-rotwein-2013-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "VIAJERO Tenuta Pule Valpolicella Ripasso Classico Superiore DOC, Rotwein 2013",
+							"subtitle": "Herkunft: Italien Anbaugebiet: Venetien Geschmack: trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"brand": {
+						"brandCode": "VIAJ",
+						"brandName": "VIAJERO",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/6/0/5/3/91a74a2d-5871-4d21-a053-4d2042dff031.png",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 1877
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 2,
+						"ratingStars": 3.5,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=7661&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 113903,
+					"erpNumber": "000000000100096927",
+					"ean": "20254902",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 2.99,
+					"basicprice": "(1 l = € 3.99)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p113903?productId=113903&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/1/3/9/0/3/gewuerztraminer-qba-weisswein-2015-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/1/3/9/0/3/gewuerztraminer-qba-weisswein-2015-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/1/3/9/0/3/gewuerztraminer-qba-weisswein-2015-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Gewürztraminer QbA, Weißwein 2015",
+							"subtitle": "Herkunft: Deutschland Anbaugebiet: Pfalz Geschmack: lieblich",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 0
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 16,
+						"ratingStars": 4.5,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=113903&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 196072,
+					"erpNumber": "000000000100175304",
+					"ean": "20243104",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 4.99,
+					"basicprice": "(1 l = € 6.66)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p196072?productId=196072&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/9/6/0/7/2/viajero-casato-di-medici-riccardi-colli-senesi-chianti-docg-rotwein-2013-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/9/6/0/7/2/viajero-casato-di-medici-riccardi-colli-senesi-chianti-docg-rotwein-2013-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/9/6/0/7/2/viajero-casato-di-medici-riccardi-colli-senesi-chianti-docg-rotwein-2013-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Viajero Casato di Medici Riccardi Colli Senesi Chianti DOCG, Rotwein 2013",
+							"subtitle": "Herkunft: Italien Anbaugebiet:Toscana Geschmack:trocken",
+							"priceText": "je 0.75-l"
+						}
+					},
+					"stock": {
+						"stockValue": 244
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 12930,
+							"starttime": 1402783200000,
+							"endtime": 4558284000000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/2/9/3/0/7dfa162f-77d1-4ea2-8202-48749a391e1f.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Sortiment\nExklusive Weinwelt",
+									"shortTitle": "Sortiment",
+									"subTitle": "Exklusive Weinwelt",
+									"groupName": "Sortiment - Exklusive Weinwelt"
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 4,
+						"ratingStars": 4.5,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=196072&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 17216,
+					"erpNumber": "000000000100186806",
+					"ean": "20330644",
+					"maxOrderQuantity": 18,
+					"adultsOnly": true,
+					"price": 7.99,
+					"oldPrice": 9.99,
+					"basicprice": "(1 l = € 15.98)",
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p17216?productId=17216&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/7/2/1/6/goldhauch-haselnuss-edeldestillat-thumbnail--6.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/7/2/1/6/goldhauch-haselnuss-edeldestillat-regular--6.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/7/2/1/6/goldhauch-haselnuss-edeldestillat-zoom--6.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "GOLDHAUCH Haselnuss Edeldestillat",
+							"subtitle": "Mit intensivem Aroma nach knackigen Nüssen und Nougat",
+							"priceText": "je 0.5-l",
+							"discountText": "-20%"
+						}
+					},
+					"brand": {
+						"brandCode": "GOHA",
+						"brandName": "GOLDHAUCH",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 551
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=17216&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 16935,
+					"erpNumber": "000000000100180305",
+					"ean": "20051372",
+					"maxOrderQuantity": 50,
+					"adultsOnly": true,
+					"price": 7.99,
+					"oldPrice": 10.29,
+					"basicprice": "(1 l = € 15.98)",
+					"taxCode": "FULL",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": true,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p16935?productId=16935&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/6/9/3/5/goldhauch-alter-mirabellen-brand-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/6/9/3/5/goldhauch-alter-mirabellen-brand-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/6/9/3/5/goldhauch-alter-mirabellen-brand-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "GOLDHAUCH Alter Mirabellen Brand",
+							"subtitle": "Edler Mirabellenbrand, destilliert aus vollreifen, hocharomatische Mirabellen und sechs Jahre gelagert",
+							"priceText": "je 500-ml",
+							"discountText": "-22%"
+						}
+					},
+					"brand": {
+						"brandCode": "GOHA",
+						"brandName": "GOLDHAUCH",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 3617
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=16935&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 187759,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 1.89,
+					"basicprice": "(100 g = € 2.37)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p187759?productId=187759&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/8/7/7/5/9/deluxe-jamon-serrano-gran-reserva-thumbnail--4.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/8/7/7/5/9/deluxe-jamon-serrano-gran-reserva-regular--4.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/8/7/7/5/9/deluxe-jamon-serrano-gran-reserva-zoom--4.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Jamón Serrano Gran Reserva",
+							"priceText": "je 80-g-Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=187759&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 208783,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 2.79,
+					"basicprice": "(100 g = € 2.33)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p208783?productId=208783&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/8/7/8/3/deluxe-salame-fiorentino-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/8/7/8/3/deluxe-salame-fiorentino-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/8/7/8/3/deluxe-salame-fiorentino-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Salame Fiorentino",
+							"priceText": "je 120-g-Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=208783&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 185998,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 1.99,
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p185998?productId=185998&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/8/5/9/9/8/roquefort-aop-thumbnail--4.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/8/5/9/9/8/roquefort-aop-regular--4.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/8/5/9/9/8/roquefort-aop-zoom--4.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "Roquefort AOP",
+							"priceText": "je 100-g-Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=185998&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 114259,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 2.99,
+					"basicprice": "(100 g = € 2.00)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p114259?productId=114259&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/1/4/2/5/9/deluxe-walnuss-schmelzkaesezubereitung-thumbnail--4.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/1/4/2/5/9/deluxe-walnuss-schmelzkaesezubereitung-regular--4.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/1/4/2/5/9/deluxe-walnuss-schmelzkaesezubereitung-zoom--4.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Walnuss-Schmelzkäsezubereitung",
+							"priceText": "je 150-g-Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=114259&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 194889,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 2.49,
+					"basicprice": "(100 g = € 1.00)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p194889?productId=194889&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/9/4/8/8/9/deluxe-mozzarella-di-bufala-campana-dop-original-italienischer-bu-ffelmozzarella-thumbnail--3.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/9/4/8/8/9/deluxe-mozzarella-di-bufala-campana-dop-original-italienischer-bu-ffelmozzarella-regular--3.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/9/4/8/8/9/deluxe-mozzarella-di-bufala-campana-dop-original-italienischer-bu-ffelmozzarella-zoom--3.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Mozzarella di Bufala Campana DOP – original italienischer Büffelmozzarella",
+							"priceText": "je 250-g-Becher"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=194889&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 187912,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 0.99,
+					"basicprice": "(100 g = € 1.24)",
+					"taxCode": "HALF",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p187912?productId=187912&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/8/7/9/1/2/deluxe-butterzubereitung-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/8/7/9/1/2/deluxe-butterzubereitung-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/8/7/9/1/2/deluxe-butterzubereitung-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Butterzubereitung",
+							"priceText": "je 80-g-Becher"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=187912&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 174481,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 1.79,
+					"basicprice": "(100 g = € 1.89)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p174481?productId=174481&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/4/4/8/1/deluxe-dessert-im-glas-thumbnail--6.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/4/4/8/1/deluxe-dessert-im-glas-regular--6.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/4/4/8/1/deluxe-dessert-im-glas-zoom--6.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Dessert im Glas",
+							"priceText": "je 95-g-Glas"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=174481&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 216524,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 0.99,
+					"basicprice": "(100 g = € 0.57)",
+					"taxCode": "FULL",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p216524?productId=216524&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/6/5/2/4/deluxe-lockere-mousse-thumbnail--5.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/6/5/2/4/deluxe-lockere-mousse-regular--5.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/6/5/2/4/deluxe-lockere-mousse-zoom--5.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Lockere Mousse",
+							"priceText": "je 175-g-Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=216524&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 174484,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 2.29,
+					"basicprice": "(1 l = € 2.29)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p174484?productId=174484&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/7/4/4/8/4/deluxe-sorbet-thumbnail--6.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/7/4/4/8/4/deluxe-sorbet-regular--6.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/7/4/4/8/4/deluxe-sorbet-zoom--6.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Sorbet",
+							"priceText": "je 1000-ml-Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=174484&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 57953,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 1.29,
+					"basicprice": "(1 kg = € 2.58)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p57953?productId=57953&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/5/7/9/5/3/deluxe-festtagsknoedel-thumbnail--6.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/5/7/9/5/3/deluxe-festtagsknoedel-regular--6.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/5/7/9/5/3/deluxe-festtagsknoedel-zoom--6.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Festtagsknödel",
+							"priceText": "je 500-g-Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=57953&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 35712,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 0.99,
+					"basicprice": "(1 kg = € 1.65)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p35712?productId=35712&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/3/5/7/1/2/deluxe-herzogin-kartoffeln-thumbnail--5.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/3/5/7/1/2/deluxe-herzogin-kartoffeln-regular--5.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/3/5/7/1/2/deluxe-herzogin-kartoffeln-zoom--5.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Herzogin-Kartoffeln",
+							"priceText": "je 600-g-Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=35712&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 113099,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 3.99,
+					"basicprice": "(100 g = € 1.60)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p113099?productId=113099&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/1/3/0/9/9/deluxe-trinkschokolade-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/1/3/0/9/9/deluxe-trinkschokolade-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/1/3/0/9/9/deluxe-trinkschokolade-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Trinkschokolade",
+							"priceText": "je 250-g-Dose"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=113099&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 207538,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 2.29,
+					"basicprice": "(100 g = € 1.44)",
+					"taxCode": "FULL",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p207538?productId=207538&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/7/5/3/8/deluxe-ambiento-confiserie-pralinen-thumbnail--3.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/7/5/3/8/deluxe-ambiento-confiserie-pralinen-regular--3.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/7/5/3/8/deluxe-ambiento-confiserie-pralinen-zoom--3.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Ambiento Confiserie-Pralinen",
+							"priceText": "je 160-g-Pckg."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=207538&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 113096,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 1.99,
+					"basicprice": "(1 kg = 6.13/5.31)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p113096?productId=113096&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/1/3/0/9/6/confiserie-firenze-muffins-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/1/3/0/9/6/confiserie-firenze-muffins-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/1/3/0/9/6/confiserie-firenze-muffins-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "CONFISERIE FIRENZE Muffins",
+							"priceText": "je 325-g/ 375-g-Packung"
+						}
+					},
+					"brand": {
+						"brandCode": "DELE",
+						"brandName": "DELUXE",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/2/0/6/3/d3452067-6e64-4c9e-94a1-4b0a3f12847a.jpg",
+						"ownBrand": false
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=113096&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 17176,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 0.99,
+					"basicprice": "(1 l = € 2.48)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p17176?productId=17176&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/0/1/7/1/7/6/deluxe-fond-thumbnail--7.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/0/1/7/1/7/6/deluxe-fond-regular--7.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/0/1/7/1/7/6/deluxe-fond-zoom--7.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Fond",
+							"priceText": "je 400-ml-Glas"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=17176&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 205750,
+					"erpNumber": "000000000100180321",
+					"ean": "20621407",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 1.49,
+					"basicprice": "(100 g = € 0.79)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p205750?productId=205750&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/5/7/5/0/deluxe-ricotta-walnuss-pesto-thumbnail--1.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/5/7/5/0/deluxe-ricotta-walnuss-pesto-regular--1.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/5/7/5/0/deluxe-ricotta-walnuss-pesto-zoom--1.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Ricotta-Walnuss Pesto",
+							"subtitle": "Zubereitung aus Molkeneiweißkäse & Walnuss",
+							"priceText": "je 190-g"
+						}
+					},
+					"brand": {
+						"brandCode": "DELE",
+						"brandName": "DELUXE",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/2/0/6/3/d3452067-6e64-4c9e-94a1-4b0a3f12847a.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 1472
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=205750&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 216903,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 1.49,
+					"basicprice": "(100 g = € 0.79)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p216903?productId=216903&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/6/9/0/3/deluxe-oliven-pesto-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/6/9/0/3/deluxe-oliven-pesto-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/6/9/0/3/deluxe-oliven-pesto-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Oliven Pesto",
+							"priceText": "je 190-g-Glas"
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=216903&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 113081,
+					"erpNumber": "000000000100180297",
+					"ean": "20261344",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 1.89,
+					"basicprice": "(1 kg = € 3.57)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p113081?productId=113081&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/1/3/0/8/1/deluxe-capunti-alla-puttanesca-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/1/3/0/8/1/deluxe-capunti-alla-puttanesca-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/1/3/0/8/1/deluxe-capunti-alla-puttanesca-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Capunti alla Puttanesca",
+							"subtitle": "Teigwaren aus Hartweizengrieß mit 5,7% Würzmischung",
+							"priceText": "je 530-g"
+						}
+					},
+					"brand": {
+						"brandCode": "DELE",
+						"brandName": "DELUXE",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/2/0/6/3/d3452067-6e64-4c9e-94a1-4b0a3f12847a.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 156
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 2,
+						"ratingStars": 4.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=113081&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 216950,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 1.89,
+					"basicprice": "(1 kg = € 3.57)",
+					"taxCode": "HALF",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p216950?productId=216950&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/6/9/5/0/deluxe-nudeln-mit-wu-rzmischung-thumbnail--2.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/6/9/5/0/deluxe-nudeln-mit-wu-rzmischung-regular--2.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/6/9/5/0/deluxe-nudeln-mit-wu-rzmischung-zoom--2.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Nudeln mit Würzmischung",
+							"priceText": "je 530-g-Pckg."
+						}
+					},
+					"brand": {
+						"brandCode": "DELE",
+						"brandName": "DELUXE",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/2/0/6/3/d3452067-6e64-4c9e-94a1-4b0a3f12847a.jpg",
+						"ownBrand": false
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=216950&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 205753,
+					"erpNumber": "000000000100182398",
+					"ean": "20681036",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 1.99,
+					"basicprice": "(100 g = € 1.60)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p205753?productId=205753&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/5/7/5/3/deluxe-fleur-de-sel-aus-der-camargue-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/5/7/5/3/deluxe-fleur-de-sel-aus-der-camargue-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/5/7/5/3/deluxe-fleur-de-sel-aus-der-camargue-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Fleur de Sel aus der Camargue",
+							"subtitle": "Grobkörniges Meersalz",
+							"priceText": "je 125-g"
+						}
+					},
+					"brand": {
+						"brandCode": "DELE",
+						"brandName": "DELUXE",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/2/0/6/3/d3452067-6e64-4c9e-94a1-4b0a3f12847a.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 3919
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 3,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=205753&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 205994,
+					"erpNumber": "000000000100180293",
+					"ean": "20429935",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 2.99,
+					"basicprice": "(100 ml = € 1.20)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p205994?productId=205994&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/5/9/9/4/deluxe-walnussoel-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/5/9/9/4/deluxe-walnussoel-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/5/9/9/4/deluxe-walnussoel-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Walnussöl",
+							"subtitle": "aus gerösteten Walnusskernen",
+							"priceText": "je 250-ml"
+						}
+					},
+					"brand": {
+						"brandCode": "DELE",
+						"brandName": "DELUXE",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/2/0/6/3/d3452067-6e64-4c9e-94a1-4b0a3f12847a.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 36
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 3,
+						"ratingStars": 4.6,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=205994&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 187908,
+					"maxOrderQuantity": 5,
+					"adultsOnly": false,
+					"price": 2.99,
+					"basicprice": "(100 ml = € 1.20)",
+					"taxCode": "FULL",
+					"shippingCostType": "STANDARD",
+					"availableOnline": false,
+					"availableInStore": true,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p187908?productId=187908&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/8/7/9/0/8/deluxe-oel-thumbnail--4.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/8/7/9/0/8/deluxe-oel-regular--4.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/8/7/9/0/8/deluxe-oel-zoom--4.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Öl",
+							"priceText": "je 250-ml-Fl."
+						}
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 0,
+						"ratingStars": 0.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=187908&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 205826,
+					"erpNumber": "000000000100180291",
+					"ean": "20364168",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 2.49,
+					"basicprice": "(100 ml = € 1.00)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p205826?productId=205826&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/5/8/2/6/deluxe-natives-olivenoel-extra-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/5/8/2/6/deluxe-natives-olivenoel-extra-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/5/8/2/6/deluxe-natives-olivenoel-extra-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Natives Olivenöl extra",
+							"subtitle": "mit Rosa Pfefferkörnern und Rosmarin",
+							"priceText": "je 250-ml"
+						}
+					},
+					"brand": {
+						"brandCode": "DELE",
+						"brandName": "DELUXE",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/2/0/6/3/d3452067-6e64-4c9e-94a1-4b0a3f12847a.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 6341
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 2,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=205826&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 206193,
+					"erpNumber": "000000000100180319",
+					"ean": "20624163",
+					"maxOrderQuantity": 50,
+					"adultsOnly": false,
+					"price": 1.49,
+					"basicprice": "(100 ml = € 0.75)",
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p206193?productId=206193&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/6/1/9/3/deluxe-senfsauce-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/6/1/9/3/deluxe-senfsauce-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/6/1/9/3/deluxe-senfsauce-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Senfsauce",
+							"subtitle": "Senfzubereitung mit Feigen.",
+							"priceText": "je 200-ml"
+						}
+					},
+					"brand": {
+						"brandCode": "DELE",
+						"brandName": "DELUXE",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/2/0/6/3/d3452067-6e64-4c9e-94a1-4b0a3f12847a.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 1389
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 2,
+						"ratingStars": 4.5,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=206193&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 205829,
+					"erpNumber": "000000000100180335",
+					"ean": "ECI100180335",
+					"maxOrderQuantity": 50,
+					"adultsOnly": true,
+					"price": 14.99,
+					"oldPrice": 29.99,
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": true,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p205829?productId=205829&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/5/8/2/9/deluxe-geschenkpaket-mediterran-thumbnail--23.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/5/8/2/9/deluxe-geschenkpaket-mediterran-regular--23.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/5/8/2/9/deluxe-geschenkpaket-mediterran-zoom--23.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Geschenkpaket Mediterran",
+							"subtitle": "Eine Auswahl von 7 exklusiven Deluxe-Spezialitäten plus eine Flasche hochwertigen italienischen Rotwein.",
+							"priceText": "​",
+							"discountText": "-50%"
+						}
+					},
+					"brand": {
+						"brandCode": "DELE",
+						"brandName": "DELUXE",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/2/0/6/3/d3452067-6e64-4c9e-94a1-4b0a3f12847a.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 1472
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 30,
+						"ratingStars": 4.9,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=205829&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 205830,
+					"erpNumber": "000000000100180336",
+					"ean": "ECI100180336",
+					"maxOrderQuantity": 50,
+					"adultsOnly": true,
+					"price": 39.99,
+					"oldPrice": 59.99,
+					"taxCode": "FULL",
+					"daysForDelivery": 2,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": true,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p205830?productId=205830&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/0/5/8/3/0/deluxe-geschenkpaket-geniesser-thumbnail--37.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/0/5/8/3/0/deluxe-geschenkpaket-geniesser-regular--37.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/0/5/8/3/0/deluxe-geschenkpaket-geniesser-zoom--37.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Geschenkpaket Genießer",
+							"subtitle": "Eine Auswahl von 14 exklusiven Deluxe-Spezialitäten plus eine Flasche Champagne Comte de Brismand Reserve, brut.",
+							"priceText": "​",
+							"discountText": "-33%"
+						}
+					},
+					"brand": {
+						"brandCode": "DELE",
+						"brandName": "DELUXE",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/2/0/6/3/d3452067-6e64-4c9e-94a1-4b0a3f12847a.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 2769
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 4,
+						"ratingStars": 5.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=205830&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 213078,
+					"erpNumber": "000000000100188773",
+					"maxOrderQuantity": 10,
+					"adultsOnly": false,
+					"price": 7.89,
+					"oldPrice": 11.35,
+					"taxCode": "HALF",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p213078?productId=213078&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/2/1/3/0/7/8/deluxe-paket-italien-thumbnail.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/2/1/3/0/7/8/deluxe-paket-italien-regular.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/2/1/3/0/7/8/deluxe-paket-italien-zoom.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "DELUXE Paket Italien",
+							"subtitle": "Eine Auswahl italienischer Köstlichkeiten aus unserem Deluxe Sortiment.",
+							"priceText": "je Set",
+							"discountText": "-30%"
+						}
+					},
+					"brand": {
+						"brandCode": "DELE",
+						"brandName": "DELUXE",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/2/0/6/3/d3452067-6e64-4c9e-94a1-4b0a3f12847a.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 156
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 2,
+						"ratingStars": 4.5,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=213078&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 185461,
+					"erpNumber": "000000000100163503",
+					"ean": "4304493744721",
+					"maxOrderQuantity": 10,
+					"adultsOnly": false,
+					"price": 2.99,
+					"oldPrice": 3.29,
+					"taxCode": "FULL",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p185461?productId=185461&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/8/5/4/6/1/ernesto-kellnermesser-thumbnail--5.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/8/5/4/6/1/ernesto-kellnermesser-regular--5.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/8/5/4/6/1/ernesto-kellnermesser--5.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "ERNESTO® Kellnermesser",
+							"subtitle": "Hochwertiger rostfreier Edelstahl mit feiner Mattierung",
+							"priceText": "​",
+							"discountText": "Billiger"
+						}
+					},
+					"brand": {
+						"brandCode": "ERNE",
+						"brandName": "ERNESTO®",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/0/0/7/8/04c7edfc-458d-461b-b4a5-c61ccbcdb1d9.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 163
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 1,
+						"ratingStars": 4.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=185461&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 184848,
+					"erpNumber": "000000000100163580",
+					"ean": "4304493744752",
+					"maxOrderQuantity": 10,
+					"adultsOnly": false,
+					"price": 6.99,
+					"taxCode": "FULL",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p184848?productId=184848&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/8/4/8/4/8/ernesto-weinthermometer-thumbnail--3.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/8/4/8/4/8/ernesto-weinthermometer-regular--3.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/8/4/8/4/8/ernesto-weinthermometer-zoom--3.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "ERNESTO® Weinthermometer",
+							"subtitle": "Skala mit optimaler Trinktemperatur für Sekt, Weiß- und Rotwein",
+							"priceText": "​"
+						}
+					},
+					"brand": {
+						"brandCode": "ERNE",
+						"brandName": "ERNESTO®",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/0/0/7/8/04c7edfc-458d-461b-b4a5-c61ccbcdb1d9.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 756
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 2,
+						"ratingStars": 4.0,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=184848&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 185446,
+					"erpNumber": "000000000100162258",
+					"adultsOnly": false,
+					"price": 6.49,
+					"taxCode": "FULL",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"shareUrl": "http://www.lidl.de/de/p185446?productId=185446&countryCode=de",
+					"choiceCount": 1,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/8/5/4/4/6/ernesto-karaffe-0-8-l-thumbnail--3.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/8/5/4/4/6/ernesto-karaffe-0-8-l-regular--3.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/8/5/4/4/6/ernesto-karaffe-0-8-l--3.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "ERNESTO® Karaffe, 0,8 l",
+							"subtitle": "Aus hochwertigem, mundgeblasenem Glas – handgefertigt",
+							"priceText": "​"
+						}
+					},
+					"brand": {
+						"brandCode": "ERNE",
+						"brandName": "ERNESTO®",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/0/0/7/8/04c7edfc-458d-461b-b4a5-c61ccbcdb1d9.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 61
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 10,
+						"ratingStars": 4.9,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=185446&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 185298,
+					"erpNumber": "000000000100163179",
+					"ean": "4019641034660",
+					"maxOrderQuantity": 10,
+					"adultsOnly": false,
+					"price": 13.99,
+					"taxCode": "FULL",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p185298?productId=185298&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/8/5/2/9/8/silvercrest-korkenzieher-elektrisch-ske-6-a1-thumbnail--6.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/8/5/2/9/8/silvercrest-korkenzieher-elektrisch-ske-6-a1-regular--6.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/8/5/2/9/8/silvercrest-korkenzieher-elektrisch-ske-6-a1-zoom--6.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "SILVERCREST® Korkenzieher elektrisch SKE 6 A1",
+							"subtitle": "Öffnet Flaschen in Sekundenschnelle",
+							"priceText": "​"
+						}
+					},
+					"brand": {
+						"brandCode": "SILV",
+						"brandName": "SILVERCREST®",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/0/2/1/5/352d45e3-523a-4a80-8493-ee8565bd8acd.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 294
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 2,
+						"ratingStars": 4.5,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=185298&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			},
+			{
+				"Product": {
+					"containerItemType": "PRODUCT",
+					"productId": 186907,
+					"erpNumber": "000000000100163224",
+					"ean": "4019641034783",
+					"maxOrderQuantity": 10,
+					"adultsOnly": false,
+					"price": 159.0,
+					"oldPrice": 169.0,
+					"taxCode": "FULL",
+					"daysForDelivery": 3,
+					"shippingCostType": "STANDARD",
+					"availableOnline": true,
+					"availableInStore": false,
+					"internetOnly": false,
+					"isStoreDeliveryPossible": true,
+					"shareUrl": "http://www.lidl.de/de/p186907?productId=186907&countryCode=de",
+					"choiceCount": 0,
+					"mainImage": {
+						"Image": {
+							"smallUrl": "http://www.lidl.de/media/product/0/1/8/6/9/0/7/silvercrest-minibar-2-zonen-smb-140-a1-thumbnail--9.jpg",
+							"mediumUrl": "http://www.lidl.de/media/product/0/1/8/6/9/0/7/silvercrest-minibar-2-zonen-smb-140-a1-regular--9.jpg",
+							"largeUrl": "http://www.lidl.de/media/product/0/1/8/6/9/0/7/silvercrest-minibar-2-zonen-smb-140-a1-zoom--9.jpg"
+						}
+					},
+					"productLanguageSet": {
+						"ProductLanguageSet": {
+							"langCode": "de",
+							"title": "SILVERCREST® Minibar 2-Zonen SMB 140 A1",
+							"subtitle": "Energieeffizienzklasse: C / Für bis zu 21 Flaschen à 0,75 Liter",
+							"priceText": "​",
+							"discountText": "Billiger"
+						}
+					},
+					"brand": {
+						"brandCode": "SILV",
+						"brandName": "SILVERCREST®",
+						"logoUrl": "http://www.lidl.de/media/brand/0/0/0/0/2/1/5/352d45e3-523a-4a80-8493-ee8565bd8acd.jpg",
+						"ownBrand": false
+					},
+					"stock": {
+						"stockValue": 89
+					},
+					"primaryCampaign": {
+						"Campaign": {
+							"containerItemType": "CAMPAIGN",
+							"hasSubContainer": false,
+							"campaignId": 16536,
+							"starttime": 1457132400000,
+							"endtime": 1458428400000,
+							"imageUrl": "http://www.lidl.de/media/campaign/0/0/1/6/5/3/6/fe50b668-17a1-4b6e-ade5-50e02d50b8b5.jpg",
+							"url": "NOT_USED",
+							"hideStoreIcon": false,
+							"campaignType": "REGULAR",
+							"campaignLanguageSet": {
+								"CampaignLanguageSet": {
+									"langCode": "de",
+									"title": "Deluxe\nAb Montag, 14.03.",
+									"shortTitle": "Deluxe",
+									"subTitle": "Ab Montag, 14.03.",
+									"groupName": "Deluxe - Ab Montag, 14.03."
+								}
+							}
+						}
+					},
+					"Rating": {
+						"ratingCount": 15,
+						"ratingStars": 3.4,
+						"ratingUrl": "http://www.lidl.de/de/product-rating?sortingCriteria=UPVOTES_DESC&starFilteringCriteria=&currentPage=1&productVariantId=&productId=186907&variantReviewFilter=false"
+					},
+					"EnergyLabels": [
+
+					]
+				}
+			}
+		]
+	}
+}
