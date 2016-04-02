@@ -14,12 +14,18 @@ var http = require('http');
 /**
  * Global variables
  */
-// latest 100 messages
+// latest 100 datas
 var history = [ ];
 // list of currently connected clients (users)
 var clients = [ ];
+// maps food and sensors 
+var foods = { };
 
-var userCount = 0;
+var ipAddress = {
+    sensor1 : "192.168.77.199", 
+    app : "192.168.77.157",
+    websocketServer : "192.168.77.134"        
+};
 
 /**
  * Helper function for escaping input strings
@@ -28,11 +34,6 @@ function htmlEntities(str) {
     return String(str).replace(/&/g, '&amp;').replace(/</g, '&lt;')
                       .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
-
-// Array with some colors
-var colors = [ 'red', 'green', 'blue', 'magenta', 'purple', 'plum', 'orange' ];
-// ... in random order
-colors.sort(function(a,b) { return Math.random() > 0.5; } );
 
 /**
  * HTTP server
@@ -65,56 +66,70 @@ wsServer.on('request', function(request) {
     var connection = request.accept(null, request.origin); 
     // we need to know client index to remove them on 'close' event
     var index = clients.push(connection) - 1;
-    var userColor = false;
     var userName = false;
 
     console.log((new Date()) + ' Connection accepted.');
 
-    // user sent some message
-    connection.on('message', function(message) {
-    	console.log(message);
-        if (message.type === 'utf8') { // accept only text
-            if (userName === false) { // first message sent by user is their name
+    // user sent some data
+    connection.on('message', function(data) {
+    	console.log(data);
+        var clientIp = connection.remoteAddress.replace(/::(.+):/, '');
+        console.log(clientIp);
+
+        if (userName === false) { // first data sent by user is their name
                 // remember user name
-                userCount ++;
-                userName = "Unknown User " + userCount;
-                // get random color and send it back to the user
-                userColor = colors.shift();
-                connection.sendUTF(JSON.stringify({ type:'color', data: userColor }));
-                console.log((new Date()) + ' User is known as: ' + userName
-                            + ' with ' + userColor + ' color.');
-
-            } 
-                console.log((new Date()) + ' Received Message from '
-                            + userName + ': ' + message.utf8Data);
-                
-                // we want to keep history of all sent messages
-                var obj = {
-                    time: (new Date()).getTime(),
-                    text: htmlEntities(message.utf8Data),
-                    author: userName,
-                    color: userColor
-                };
-                history.push(obj);
-                history = history.slice(-100);
-
-                // broadcast message to all connected clients
-                var json = JSON.stringify({ type:'message', data: obj });
-                for (var i=0; i < clients.length; i++) {
-                    clients[i].sendUTF(json);
-                }
+                userName = clientIp;
+                console.log((new Date()) + ' User is known as: ' + userName);
         }
+
+        // if the data is coming from sensor1 
+        if (clientIp == ipAddress.websocketServer) { // accept only text
+            console.log((new Date()) + ' Received data from '
+                        + userName + ': ' + data.utf8Data);
+            
+            var supplyLevel = parseInt(data.utf8Data) / 100;
+
+            // we want to keep history of all sent datas
+            var obj = {
+                time: (new Date()).getTime(),
+                value: supplyLevel,
+                author: userName, 
+                food: foods["1"]
+            };
+            history.push(obj);
+            history = history.slice(-100);
+
+            // broadcast data to all connected clients
+            var json = JSON.stringify(obj);
+            for (var i=0; i < clients.length; i++) {
+                clients[i].sendUTF(json);
+            }
+            console.log("Sent push notification to all clients.\n" + json);
+        }
+
+        if(clientIp == ipAddress.websocketServer) {
+            var request;
+            try {
+                request = JSON.parse(data.utf8Data);
+            } catch (e) {
+                console.log('This doesn\'t look like a valid JSON: ', data.utf8Data);
+                return;
+            }
+            if(request.sensorId && request.food) {
+                foods[request.sensorId] = request.food;
+                console.log("Food configuration stored. { " +request.sensorId + " : " + request.food + " } ");
+            }
+        }
+
     });
 
     // user disconnected
     connection.on('close', function(connection) {
-        if (userName !== false && userColor !== false) {
+        if (userName !== false) {
             console.log((new Date()) + " Peer "
                 + connection.remoteAddress + " disconnected.");
             // remove user from the list of connected clients
             clients.splice(index, 1);
-            // push back user's color to be reused by another user
-            colors.push(userColor);
         }
     });
 

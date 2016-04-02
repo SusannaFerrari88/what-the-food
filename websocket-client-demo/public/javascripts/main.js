@@ -6,10 +6,9 @@ $(function () {
     var input = $('#input');
     var status = $('#status');
 
-    // my color assigned by the server
-    var myColor = false;
-    // my name sent to the server
-    var myName = false;
+    var colors = [ 'red', 'green', 'blue', 'magenta', 'purple', 'plum', 'orange' ];
+
+    var userColors = { };
 
     // if user is running mozilla then use it's built-in WebSocket
     window.WebSocket = window.WebSocket || window.MozWebSocket;
@@ -46,30 +45,16 @@ $(function () {
         try {
             var json = JSON.parse(message.data);
         } catch (e) {
-            console.log('This doesn\'t look like a valid JSON: ', message.data);
+            console.log('This doesn\'t look like a valid JSON: ', message);
             return;
         }
 
         // NOTE: if you're not sure about the JSON structure
         // check the server source code above
-        if (json.type === 'color') { // first response from the server with user's color
-            myColor = json.data;
-            status.text('Write:').css('color', myColor);
-            input.removeAttr('disabled').focus();
-            // from now user can start sending messages
-        } else if (json.type === 'history') { // entire message history
-            // insert every single message to the chat window
-            for (var i=0; i < json.data.length; i++) {
-                addMessage(json.data[i].author, json.data[i].text,
-                           json.data[i].color, new Date(json.data[i].time));
-            }
-        } else if (json.type === 'message') { // it's a single message
-            input.removeAttr('disabled'); // let the user write another message
-            addMessage(json.data.author, json.data.text,
-                       json.data.color, new Date(json.data.time));
-        } else {
-            console.log('Hmm..., I\'ve never seen JSON like this: ', json);
-        }
+        input.removeAttr('disabled'); // let the user write another message
+        addMessage(json.author, JSON.stringify(json),
+            new Date(json.time));
+        
     };
 
     /**
@@ -98,18 +83,25 @@ $(function () {
     setInterval(function() {
         if (connection.readyState !== 1) {
             status.text('Error');
-            input.attr('disabled', 'disabled').val('Unable to comminucate '
-                                                 + 'with the WebSocket server.');
+            input.attr('disabled', 'disabled').val('');
         }
     }, 3000);
 
     /**
      * Add message to the chat window
      */
-    function addMessage(author, message, color, dt) {
+    function addMessage(author, message, dt) {
+        var color = colorByAuthor(author);
         content.prepend('<p><span style="color:' + color + '">' + author + '</span> @ ' +
              + (dt.getHours() < 10 ? '0' + dt.getHours() : dt.getHours()) + ':'
              + (dt.getMinutes() < 10 ? '0' + dt.getMinutes() : dt.getMinutes())
              + ': ' + message + '</p>');
+    }
+
+    function colorByAuthor(author) {
+        if(!userColors[author]) {
+            userColors[author] = colors.shift();
+        }
+        return userColors[author];
     }
 });
