@@ -1,5 +1,5 @@
 export const VIEW_WIDTH = 375
-export const TESTING = true
+export const TESTING = false
 export const IP = '192.168.77.185'
 export const PORT = '8080'
 
