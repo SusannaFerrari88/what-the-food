@@ -5,8 +5,8 @@ export const PORT = '8080'
 
 export const generateTestData = () => ({ jars: [ {
     fillAmount: Math.random(),
-    food      : 'Müsli'
+    food      : 'Reis'
 }, {
     fillAmount: Math.random(),
-    food      : 'Reis'
+    food      : 'Nudeln'
 } ] })

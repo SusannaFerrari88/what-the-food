@@ -2,11 +2,11 @@ import React, { Component, PropTypes } from 'react-native'
 import LinearGradient from 'react-native-linear-gradient/index.ios.js'
 const { Platform, StyleSheet, View, Text, Image, } = React
 
-Jar.propTypes = { fillAmount: PropTypes.number.isRequired }
+Jar.propTypes = { jar: PropTypes.object.isRequired }
 
 export default function Jar( props ){
 
-    const { fillAmount } = props
+    const { jar: { fillAmount, food } } = props
     const min = 21
     const max = 355
 
@@ -18,24 +18,26 @@ export default function Jar( props ){
 
     const fillerStyle = {
         position: 'absolute',
+        resizeMode: 'cover', // or 'stretch'
         bottom: 0,
         left: 0,
         right: 0,
         height
     }
 
+
+    const uri = food === 'Reis' ? 'rice' : 'nudeln'
     return (
+
         <View style={ styles.container }>
 
             <View style={ styles.jarContainer }>
 
-                {/*<View style={ fillerStyle } />*/}
-                {/*<View  >*/}
-                    <LinearGradient
-                        colors={ [ '#C02425', '#F0CB35' ] }
-                        style={ fillerStyle }
-                        />
-                {/*</View>*/}
+
+                <Image
+                    source={ { uri, isStatic: true } }
+                    style={ fillerStyle }
+                />
 
                 <Image
                     source={ { uri: "jar", isStatic: true } }
@@ -52,7 +54,7 @@ export default function Jar( props ){
 let styles = StyleSheet.create({
     container: {
         flex: 1,
-        top: 20,
+        top: 60,
         justifyContent: 'center',
         alignItems: 'center',
         // borderColor: 'red',
