@@ -2,12 +2,19 @@
   "name": "what-the-food-ios",
   "version": "1.0.0",
   "description": "A forward-looking approach to building with React Native.",
-  "author": "Torsten Rüter <torsten@rueter.net>",
+  "author": "Josh Habdas <jhabdas@gmail.com> (http://habd.as)",
   "license": "MIT",
   "keywords": [
-    "food",
-    "hackathon"
-    "react-native"
+    "mobile",
+    "native",
+    "javascript",
+    "react-native",
+    "starter-kit",
+    "webpack",
+    "babel",
+    "eslint",
+    "greenkeeper",
+    "es2015"
   ],
   "scripts": {
     "android-setup-port": "adb reverse tcp:8081 tcp:8080",
