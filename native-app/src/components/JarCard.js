@@ -15,22 +15,24 @@ export default function JarCard({ jar, onOrderMore }){
 
             <Jar
                 style={ styles.jar }
-                fillAmount={ jar.fillAmount }
+                jar={ jar }
             />
-
+{/*
             <Button
                 style={ styles.button }
                 onPress={ onOrderMore }
             >
                 Order more
-            </Button>
+            </Button>*/}
 
         </View>
 
     )
 }
 
-Jar.propTypes = { fillAmount: PropTypes.number.isRequired }
+JarCard.propTypes = {
+    jar        : PropTypes.object.isRequired
+ }
 
 
 
@@ -42,6 +44,7 @@ let styles = StyleSheet.create({
         width: VIEW_WIDTH,
         alignItems: 'center',
         paddingHorizontal: 100,
+        paddingVertical: 20,
         // borderColor: 'blue',
         // borderWidth: 2
     },
