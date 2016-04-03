@@ -16,12 +16,6 @@ Team Memmbers:
 
 
 
-## Screenshot
+## Screenshot + Live Setup
 
-
-![image](./screenshot.jpg)
-
-
-## Live setup
-
-![image](./picture.jpg)
+![image](./screenshot.jpg) ![image](./picture.jpg)
