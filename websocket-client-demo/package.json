@@ -1,6 +1,6 @@
 {
-  "name": "websocket-server",
-  "version": "0.0.0",
+  "name": "what-the-food-server",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"

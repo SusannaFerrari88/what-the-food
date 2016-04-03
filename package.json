@@ -1,0 +1,25 @@
+{
+  "name": "what-the-food",
+  "version": "1.0.0",
+  "description": "So you never run out of müsli again",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SusannaFerrari88/what-the-food.git"
+  },
+  "keywords": [
+    "hackathon",
+    "food",
+    "smart",
+    "kitchen"
+  ],
+  "author": "Torsten Rüter, Susanna Ferrai, Erhan Yilmaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SusannaFerrari88/what-the-food/issues"
+  },
+  "homepage": "https://github.com/SusannaFerrari88/what-the-food#readme"
+}
