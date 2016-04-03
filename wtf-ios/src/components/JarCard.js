@@ -17,7 +17,7 @@ export default function JarCard({ jar, onOrderMore }){
                 style={ styles.jar }
                 jar={ jar }
             />
-{/*
+            {/*
             <Button
                 style={ styles.button }
                 onPress={ onOrderMore }
@@ -31,8 +31,8 @@ export default function JarCard({ jar, onOrderMore }){
 }
 
 JarCard.propTypes = {
-    jar        : PropTypes.object.isRequired
- }
+    jar: PropTypes.object.isRequired
+}
 
 
 
